@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=analog_input.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=LPF.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=PGA.SchDoc|SheetNumber=3
