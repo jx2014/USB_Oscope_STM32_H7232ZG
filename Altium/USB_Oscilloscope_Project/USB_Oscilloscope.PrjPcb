@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LLFGWSMM
 
 [Document2]
-DocumentPath=PGA.SchDoc
+DocumentPath=PGA_CH1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ZSOJANTG
 
 [Document3]
+DocumentPath=REF_VOLTAGE_RELAY_DRIVER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JFELLHID
+
+[Document4]
 DocumentPath=LPF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,14 +117,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIPTTEBT
 
-[Document4]
+[Document5]
 DocumentPath=H723ZG_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
