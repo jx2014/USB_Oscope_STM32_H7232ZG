@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=analog_input.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=H723ZG_Interface.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=LPF.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=PGA.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=H723ZG_Interface.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=LPF.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=PGA_CH1.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=analog_input.SchDoc|FileName=REF_VOLTAGE_RELAY_DRIVER.SchDoc|SheetNumber=3
