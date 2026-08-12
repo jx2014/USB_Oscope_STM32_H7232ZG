@@ -1,0 +1,12 @@
+Change Value of Parameter Manufacturer Part in Part C6 Old= New=TCC0805COG200J500BT
+Change Value of Parameter Manufacturer Part in Part C15 Old= New=TCC0805COG200J500BT
+Change Value of Parameter Manufacturer in Part C6 Old= New=CCTC
+Change Value of Parameter Manufacturer in Part C15 Old= New=CCTC
+Change Value of Parameter Supplier Part in Part C6 Old= New=TCC0805COG200J500BT
+Change Value of Parameter Supplier Part in Part C15 Old= New=TCC0805COG200J500BT
+Added Parameter Supplier Part Number=C5375851 to Part C6
+Added Parameter Supplier Part Number=C5375851 to Part C15
+Added Parameter Supplier=JLCPCB to Part C6
+Added Parameter Supplier=JLCPCB to Part C15
+Update Managed Component C6 From CMP-00003-3[Capacitor] To CMP-00003-3[TCC0805COG200J500BT] in LPF.SchDoc
+Update Managed Component C15 From CMP-00003-3[Capacitor] To CMP-00003-3[TCC0805COG200J500BT] in LPF.SchDoc

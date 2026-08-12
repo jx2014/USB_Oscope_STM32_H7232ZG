@@ -1,0 +1,90 @@
+Removed Parameter CPAR: from Part C6
+Removed Parameter CPAR: from Part C15
+Removed Parameter LSER: from Part C6
+Removed Parameter LSER: from Part C15
+Removed Parameter RLSHUNT: from Part C6
+Removed Parameter RLSHUNT: from Part C15
+Removed Parameter RPAR: from Part C6
+Removed Parameter RPAR: from Part C15
+Removed Parameter RSER: from Part C6
+Removed Parameter RSER: from Part C15
+Removed Parameter SimulationGenericComponent:True from Part C6
+Removed Parameter SimulationGenericComponent:True from Part C15
+Removed Parameter TEMP: from Part C6
+Removed Parameter TEMP: from Part C15
+Removed Parameter Value:20p from Part C6
+Removed Parameter Value:20p from Part C15
+Added Parameter AddInBom= to Part C6
+Added Parameter AddInBom= to Part C15
+Added Parameter Channel ID= to Part C6
+Added Parameter Channel ID= to Part C15
+Added Parameter Circluar Pins/Square Pins= to Part C6
+Added Parameter Circluar Pins/Square Pins= to Part C15
+Added Parameter Color= to Part C6
+Added Parameter Color= to Part C15
+Added Parameter Contact Material= to Part C6
+Added Parameter Contact Material= to Part C15
+Added Parameter Contact Plating= to Part C6
+Added Parameter Contact Plating= to Part C15
+Added Parameter ConvertToPcb= to Part C6
+Added Parameter ConvertToPcb= to Part C15
+Added Parameter Current Rating= to Part C6
+Added Parameter Current Rating= to Part C15
+Added Parameter Datasheet= to Part C6
+Added Parameter Datasheet= to Part C15
+Added Parameter Design Item ID= to Part C6
+Added Parameter Design Item ID= to Part C15
+Added Parameter Device= to Part C6
+Added Parameter Device= to Part C15
+Added Parameter FootprintName= to Part C6
+Added Parameter FootprintName= to Part C15
+Added Parameter Group ID= to Part C6
+Added Parameter Group ID= to Part C15
+Added Parameter Insulation Height= to Part C6
+Added Parameter Insulation Height= to Part C15
+Added Parameter JLCPCB Part Class= to Part C6
+Added Parameter JLCPCB Part Class= to Part C15
+Added Parameter LCSC Part Name= to Part C6
+Added Parameter LCSC Part Name= to Part C15
+Added Parameter Length of End Connection Pin= to Part C6
+Added Parameter Length of End Connection Pin= to Part C15
+Added Parameter Length of Mating Pin= to Part C6
+Added Parameter Length of Mating Pin= to Part C15
+Added Parameter Manufacturer Part= to Part C6
+Added Parameter Manufacturer Part= to Part C15
+Added Parameter Manufacturer= to Part C6
+Added Parameter Manufacturer= to Part C15
+Added Parameter ModelId= to Part C6
+Added Parameter ModelId= to Part C15
+Added Parameter ModelName= to Part C6
+Added Parameter ModelName= to Part C15
+Added Parameter ModelTransform= to Part C6
+Added Parameter ModelTransform= to Part C15
+Added Parameter Mounting Type= to Part C6
+Added Parameter Mounting Type= to Part C15
+Added Parameter Number of Pins= to Part C6
+Added Parameter Number of Pins= to Part C15
+Added Parameter Number of Rows= to Part C6
+Added Parameter Number of Rows= to Part C15
+Added Parameter Operating Temperature= to Part C6
+Added Parameter Operating Temperature= to Part C15
+Added Parameter Pin Structure= to Part C6
+Added Parameter Pin Structure= to Part C15
+Added Parameter Pitch= to Part C6
+Added Parameter Pitch= to Part C15
+Added Parameter Reuse Block= to Part C6
+Added Parameter Reuse Block= to Part C15
+Added Parameter Row Spacing= to Part C6
+Added Parameter Row Spacing= to Part C15
+Added Parameter Source= to Part C6
+Added Parameter Source= to Part C15
+Added Parameter Supplier Footprint= to Part C6
+Added Parameter Supplier Footprint= to Part C15
+Added Parameter Supplier Part= to Part C6
+Added Parameter Supplier Part= to Part C15
+Added Parameter Symbol= to Part C6
+Added Parameter Symbol= to Part C15
+Added Parameter Voltage Rating (Max)= to Part C6
+Added Parameter Voltage Rating (Max)= to Part C15
+Update Managed Component C6 From CMP-00003-1[Capacitor] To CMP-00003-1[TCC0805COG200J500BT] in LPF.SchDoc
+Update Managed Component C15 From CMP-00003-1[Capacitor] To CMP-00003-1[TCC0805COG200J500BT] in LPF.SchDoc

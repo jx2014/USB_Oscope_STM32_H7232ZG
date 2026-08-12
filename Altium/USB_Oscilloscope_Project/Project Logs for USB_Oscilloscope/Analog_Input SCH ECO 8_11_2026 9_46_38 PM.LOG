@@ -1,0 +1,90 @@
+Removed Parameter CPAR: from Part C1
+Removed Parameter CPAR: from Part C11
+Removed Parameter LSER: from Part C1
+Removed Parameter LSER: from Part C11
+Removed Parameter RLSHUNT: from Part C1
+Removed Parameter RLSHUNT: from Part C11
+Removed Parameter RPAR: from Part C1
+Removed Parameter RPAR: from Part C11
+Removed Parameter RSER: from Part C1
+Removed Parameter RSER: from Part C11
+Removed Parameter SimulationGenericComponent:True from Part C1
+Removed Parameter SimulationGenericComponent:True from Part C11
+Removed Parameter TEMP: from Part C1
+Removed Parameter TEMP: from Part C11
+Removed Parameter Value:20p from Part C1
+Removed Parameter Value:20p from Part C11
+Added Parameter AddInBom= to Part C1
+Added Parameter AddInBom= to Part C11
+Added Parameter Channel ID= to Part C1
+Added Parameter Channel ID= to Part C11
+Added Parameter Circluar Pins/Square Pins= to Part C1
+Added Parameter Circluar Pins/Square Pins= to Part C11
+Added Parameter Color= to Part C1
+Added Parameter Color= to Part C11
+Added Parameter Contact Material= to Part C1
+Added Parameter Contact Material= to Part C11
+Added Parameter Contact Plating= to Part C1
+Added Parameter Contact Plating= to Part C11
+Added Parameter ConvertToPcb= to Part C1
+Added Parameter ConvertToPcb= to Part C11
+Added Parameter Current Rating= to Part C1
+Added Parameter Current Rating= to Part C11
+Added Parameter Datasheet= to Part C1
+Added Parameter Datasheet= to Part C11
+Added Parameter Design Item ID= to Part C1
+Added Parameter Design Item ID= to Part C11
+Added Parameter Device= to Part C1
+Added Parameter Device= to Part C11
+Added Parameter FootprintName= to Part C1
+Added Parameter FootprintName= to Part C11
+Added Parameter Group ID= to Part C1
+Added Parameter Group ID= to Part C11
+Added Parameter Insulation Height= to Part C1
+Added Parameter Insulation Height= to Part C11
+Added Parameter JLCPCB Part Class= to Part C1
+Added Parameter JLCPCB Part Class= to Part C11
+Added Parameter LCSC Part Name= to Part C1
+Added Parameter LCSC Part Name= to Part C11
+Added Parameter Length of End Connection Pin= to Part C1
+Added Parameter Length of End Connection Pin= to Part C11
+Added Parameter Length of Mating Pin= to Part C1
+Added Parameter Length of Mating Pin= to Part C11
+Added Parameter Manufacturer Part= to Part C1
+Added Parameter Manufacturer Part= to Part C11
+Added Parameter Manufacturer= to Part C1
+Added Parameter Manufacturer= to Part C11
+Added Parameter ModelId= to Part C1
+Added Parameter ModelId= to Part C11
+Added Parameter ModelName= to Part C1
+Added Parameter ModelName= to Part C11
+Added Parameter ModelTransform= to Part C1
+Added Parameter ModelTransform= to Part C11
+Added Parameter Mounting Type= to Part C1
+Added Parameter Mounting Type= to Part C11
+Added Parameter Number of Pins= to Part C1
+Added Parameter Number of Pins= to Part C11
+Added Parameter Number of Rows= to Part C1
+Added Parameter Number of Rows= to Part C11
+Added Parameter Operating Temperature= to Part C1
+Added Parameter Operating Temperature= to Part C11
+Added Parameter Pin Structure= to Part C1
+Added Parameter Pin Structure= to Part C11
+Added Parameter Pitch= to Part C1
+Added Parameter Pitch= to Part C11
+Added Parameter Reuse Block= to Part C1
+Added Parameter Reuse Block= to Part C11
+Added Parameter Row Spacing= to Part C1
+Added Parameter Row Spacing= to Part C11
+Added Parameter Source= to Part C1
+Added Parameter Source= to Part C11
+Added Parameter Supplier Footprint= to Part C1
+Added Parameter Supplier Footprint= to Part C11
+Added Parameter Supplier Part= to Part C1
+Added Parameter Supplier Part= to Part C11
+Added Parameter Symbol= to Part C1
+Added Parameter Symbol= to Part C11
+Added Parameter Voltage Rating (Max)= to Part C1
+Added Parameter Voltage Rating (Max)= to Part C11
+Update Managed Component C1 From CMP-00003-1[Capacitor] To CMP-00003-1[TCC0805COG200J500BT] in Analog_Input.SchDoc
+Update Managed Component C11 From CMP-00003-1[Capacitor] To CMP-00003-1[TCC0805COG200J500BT] in Analog_Input.SchDoc
