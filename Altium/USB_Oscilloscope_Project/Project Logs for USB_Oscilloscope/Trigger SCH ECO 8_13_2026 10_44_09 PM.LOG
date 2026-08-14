@@ -1,0 +1,21 @@
+Removed Parameter Manufacturer Part: from Part R45
+Removed Parameter Manufacturer Part: from Part R46
+Removed Parameter Manufacturer Part: from Part R47
+Removed Parameter Manufacturer Part: from Part R49
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C27
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C28
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C29
+Removed Parameter ManufacturerPart:0805W8F1001T5E from Part R46
+Removed Parameter ManufacturerPart:0805W8F1001T5E from Part R47
+Removed Parameter ManufacturerPart:0805W8F1001T5E from Part R49
+Removed Parameter ManufacturerPart:0805W8F1002T5E from Part R45
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C27
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C28
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C29
+Added Parameter Manufacturer Part Number=0805W8F1001T5E to Part R46
+Added Parameter Manufacturer Part Number=0805W8F1001T5E to Part R47
+Added Parameter Manufacturer Part Number=0805W8F1001T5E to Part R49
+Added Parameter Manufacturer Part Number=0805W8F1002T5E to Part R45
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C27
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C28
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C29

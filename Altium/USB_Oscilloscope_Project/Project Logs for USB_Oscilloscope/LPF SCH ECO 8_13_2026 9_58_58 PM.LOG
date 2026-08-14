@@ -1,0 +1,78 @@
+Removed Parameter DTEMP: from Part R16
+Removed Parameter DTEMP: from Part R25
+Removed Parameter SimulationGenericComponent:True from Part R16
+Removed Parameter SimulationGenericComponent:True from Part R25
+Removed Parameter T_REL_LOCAL: from Part R16
+Removed Parameter T_REL_LOCAL: from Part R25
+Removed Parameter TC1:0 from Part R16
+Removed Parameter TC1:0 from Part R25
+Removed Parameter TC2:0 from Part R16
+Removed Parameter TC2:0 from Part R25
+Removed Parameter TC: from Part R16
+Removed Parameter TC: from Part R25
+Removed Parameter TEMP: from Part R16
+Removed Parameter TEMP: from Part R25
+Change Value of Parameter Value in Part R16 Old=7.65K New=7.68k
+Change Value of Parameter Value in Part R25 Old=7.65K New=7.68k
+Added Parameter AddInBom=yes to Part R16
+Added Parameter AddInBom=yes to Part R25
+Added Parameter Channel ID= to Part R16
+Added Parameter Channel ID= to Part R25
+Added Parameter ConvertToPcb=yes to Part R16
+Added Parameter ConvertToPcb=yes to Part R25
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/RC0805FR-077K68L/262366.html to Part R16
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/RC0805FR-077K68L/262366.html to Part R25
+Added Parameter Design Item ID=RC0805FR-077K68L to Part R16
+Added Parameter Design Item ID=RC0805FR-077K68L to Part R25
+Added Parameter Device=RC0805FR-077K68L to Part R16
+Added Parameter Device=RC0805FR-077K68L to Part R25
+Added Parameter FootprintName=R0805 to Part R16
+Added Parameter FootprintName=R0805 to Part R25
+Added Parameter Group ID= to Part R16
+Added Parameter Group ID= to Part R25
+Added Parameter JLCPCB Part Class=Extended Part to Part R16
+Added Parameter JLCPCB Part Class=Extended Part to Part R25
+Added Parameter LCSC Part Name=厚膜电阻 7.68kΩ ±1% 125mW to Part R16
+Added Parameter LCSC Part Name=厚膜电阻 7.68kΩ ±1% 125mW to Part R25
+Added Parameter Manufacturer Part= to Part R16
+Added Parameter Manufacturer Part= to Part R25
+Added Parameter Manufacturer=YAGEO(国巨) to Part R16
+Added Parameter Manufacturer=YAGEO(国巨) to Part R25
+Added Parameter ManufacturerPart=RC0805FR-077K68L to Part R16
+Added Parameter ManufacturerPart=RC0805FR-077K68L to Part R25
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R16
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R25
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R16
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R25
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R16
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R25
+Added Parameter Operating Temperature Range= to Part R16
+Added Parameter Operating Temperature Range= to Part R25
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R16
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R25
+Added Parameter Overload Voltage (Max)= to Part R16
+Added Parameter Overload Voltage (Max)= to Part R25
+Added Parameter Power(Watts)=125mW to Part R16
+Added Parameter Power(Watts)=125mW to Part R25
+Added Parameter Reuse Block= to Part R16
+Added Parameter Reuse Block= to Part R25
+Added Parameter Source=P1.SCHLIB to Part R16
+Added Parameter Source=P1.SCHLIB to Part R25
+Added Parameter Supplier Footprint=0805 to Part R16
+Added Parameter Supplier Footprint=0805 to Part R25
+Added Parameter Supplier Part= to Part R16
+Added Parameter Supplier Part= to Part R25
+Added Parameter SupplierPart=C273951 to Part R16
+Added Parameter SupplierPart=C273951 to Part R25
+Added Parameter Symbol=RC0805FR-077K68L to Part R16
+Added Parameter Symbol=RC0805FR-077K68L to Part R25
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R16
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R25
+Added Parameter Tolerance=1% to Part R16
+Added Parameter Tolerance=1% to Part R25
+Added Parameter Type=Thick Film Resistor to Part R16
+Added Parameter Type=Thick Film Resistor to Part R25
+Added Parameter Voltage-Supply(Max)=150V to Part R16
+Added Parameter Voltage-Supply(Max)=150V to Part R25
+Update Managed Component R16 From CMP-016-000016-1[Resistor] To CMP-016-000016-1[RC0805FR-077K68L] in LPF.SchDoc
+Update Managed Component R25 From CMP-016-000016-1[Resistor] To CMP-016-000016-1[RC0805FR-077K68L] in LPF.SchDoc

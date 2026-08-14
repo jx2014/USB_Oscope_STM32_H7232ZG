@@ -1,0 +1,78 @@
+Removed Parameter DTEMP: from Part R30
+Removed Parameter DTEMP: from Part R34
+Removed Parameter SimulationGenericComponent:True from Part R30
+Removed Parameter SimulationGenericComponent:True from Part R34
+Removed Parameter T_REL_LOCAL: from Part R30
+Removed Parameter T_REL_LOCAL: from Part R34
+Removed Parameter TC1:0 from Part R30
+Removed Parameter TC1:0 from Part R34
+Removed Parameter TC2:0 from Part R30
+Removed Parameter TC2:0 from Part R34
+Removed Parameter TC: from Part R30
+Removed Parameter TC: from Part R34
+Removed Parameter TEMP: from Part R30
+Removed Parameter TEMP: from Part R34
+Change Value of Parameter Value in Part R30 Old=10K New=10k
+Change Value of Parameter Value in Part R34 Old=10K New=10k
+Added Parameter AddInBom=yes to Part R30
+Added Parameter AddInBom=yes to Part R34
+Added Parameter Channel ID= to Part R30
+Added Parameter Channel ID= to Part R34
+Added Parameter ConvertToPcb=yes to Part R30
+Added Parameter ConvertToPcb=yes to Part R34
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html to Part R30
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html to Part R34
+Added Parameter Design Item ID=0805W8F1002T5E to Part R30
+Added Parameter Design Item ID=0805W8F1002T5E to Part R34
+Added Parameter Device=0805W8F1002T5E to Part R30
+Added Parameter Device=0805W8F1002T5E to Part R34
+Added Parameter FootprintName=R0805 to Part R30
+Added Parameter FootprintName=R0805 to Part R34
+Added Parameter Group ID= to Part R30
+Added Parameter Group ID= to Part R34
+Added Parameter JLCPCB Part Class=Basic Part to Part R30
+Added Parameter JLCPCB Part Class=Basic Part to Part R34
+Added Parameter LCSC Part Name=10kΩ ±1% 125mW 厚膜电阻 to Part R30
+Added Parameter LCSC Part Name=10kΩ ±1% 125mW 厚膜电阻 to Part R34
+Added Parameter Manufacturer Part= to Part R30
+Added Parameter Manufacturer Part= to Part R34
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R30
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R34
+Added Parameter ManufacturerPart=0805W8F1002T5E to Part R30
+Added Parameter ManufacturerPart=0805W8F1002T5E to Part R34
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R30
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R34
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R30
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R34
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R30
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R34
+Added Parameter Operating Temperature Range= to Part R30
+Added Parameter Operating Temperature Range= to Part R34
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R30
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R34
+Added Parameter Overload Voltage (Max)= to Part R30
+Added Parameter Overload Voltage (Max)= to Part R34
+Added Parameter Power(Watts)=125mW to Part R30
+Added Parameter Power(Watts)=125mW to Part R34
+Added Parameter Reuse Block= to Part R30
+Added Parameter Reuse Block= to Part R34
+Added Parameter Source=P1.SCHLIB to Part R30
+Added Parameter Source=P1.SCHLIB to Part R34
+Added Parameter Supplier Footprint=0805 to Part R30
+Added Parameter Supplier Footprint=0805 to Part R34
+Added Parameter Supplier Part= to Part R30
+Added Parameter Supplier Part= to Part R34
+Added Parameter SupplierPart=C17414 to Part R30
+Added Parameter SupplierPart=C17414 to Part R34
+Added Parameter Symbol=0805W8F1002T5E to Part R30
+Added Parameter Symbol=0805W8F1002T5E to Part R34
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R30
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R34
+Added Parameter Tolerance=1% to Part R30
+Added Parameter Tolerance=1% to Part R34
+Added Parameter Type=Thick Film Resistor to Part R30
+Added Parameter Type=Thick Film Resistor to Part R34
+Added Parameter Voltage-Supply(Max)=150V to Part R30
+Added Parameter Voltage-Supply(Max)=150V to Part R34
+Update Managed Component R30 From CMP-016-000002-1[Resistor] To CMP-016-000002-1[0805W8F1002T5E] in PGA_CH1.SchDoc
+Update Managed Component R34 From CMP-016-000002-1[Resistor] To CMP-016-000002-1[0805W8F1002T5E] in PGA_CH1.SchDoc

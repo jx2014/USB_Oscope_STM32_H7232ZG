@@ -1,0 +1,34 @@
+Removed Parameter CPAR: from Part C26
+Removed Parameter LSER: from Part C26
+Removed Parameter RLSHUNT: from Part C26
+Removed Parameter RPAR: from Part C26
+Removed Parameter RSER: from Part C26
+Removed Parameter SimulationGenericComponent:True from Part C26
+Removed Parameter TEMP: from Part C26
+Change Value of Parameter Value in Part C26 Old=0.1u New=100nF
+Added Parameter AddInBom=yes to Part C26
+Added Parameter Channel ID= to Part C26
+Added Parameter ConvertToPcb=yes to Part C26
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C26
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C26
+Added Parameter Device=CC0805JRX7R9BB104 to Part C26
+Added Parameter FootprintName=C0805 to Part C26
+Added Parameter Group ID= to Part C26
+Added Parameter JLCPCB Part Class=Extended Part to Part C26
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C26
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C26
+Added Parameter Manufacturer=YAGEO(国巨) to Part C26
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C26
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C26
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C26
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C26
+Added Parameter Reuse Block= to Part C26
+Added Parameter Source=P1.SCHLIB to Part C26
+Added Parameter Supplier Footprint=0805 to Part C26
+Added Parameter Supplier Part=C111492 to Part C26
+Added Parameter SupplierPart= to Part C26
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C26
+Added Parameter Temperature Coefficient=X7R to Part C26
+Added Parameter Tolerance=5% to Part C26
+Added Parameter Voltage Rating=50V to Part C26
+Update Managed Component C26 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in REF_VOLTAGE_RELAY_DRIVER.SchDoc

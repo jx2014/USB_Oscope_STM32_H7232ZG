@@ -1,0 +1,78 @@
+Removed Parameter DTEMP: from Part R15
+Removed Parameter DTEMP: from Part R24
+Removed Parameter SimulationGenericComponent:True from Part R15
+Removed Parameter SimulationGenericComponent:True from Part R24
+Removed Parameter T_REL_LOCAL: from Part R15
+Removed Parameter T_REL_LOCAL: from Part R24
+Removed Parameter TC1:0 from Part R15
+Removed Parameter TC1:0 from Part R24
+Removed Parameter TC2:0 from Part R15
+Removed Parameter TC2:0 from Part R24
+Removed Parameter TC: from Part R15
+Removed Parameter TC: from Part R24
+Removed Parameter TEMP: from Part R15
+Removed Parameter TEMP: from Part R24
+Change Value of Parameter Value in Part R15 Old=18.7K New=18.7k
+Change Value of Parameter Value in Part R24 Old=18.7K New=18.7k
+Added Parameter AddInBom=yes to Part R15
+Added Parameter AddInBom=yes to Part R24
+Added Parameter Channel ID= to Part R15
+Added Parameter Channel ID= to Part R24
+Added Parameter ConvertToPcb=yes to Part R15
+Added Parameter ConvertToPcb=yes to Part R24
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1872T5E/18187.html to Part R15
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1872T5E/18187.html to Part R24
+Added Parameter Design Item ID=0805W8F1872T5E to Part R15
+Added Parameter Design Item ID=0805W8F1872T5E to Part R24
+Added Parameter Device=0805W8F1872T5E to Part R15
+Added Parameter Device=0805W8F1872T5E to Part R24
+Added Parameter FootprintName=R0805 to Part R15
+Added Parameter FootprintName=R0805 to Part R24
+Added Parameter Group ID= to Part R15
+Added Parameter Group ID= to Part R24
+Added Parameter JLCPCB Part Class=Extended Part to Part R15
+Added Parameter JLCPCB Part Class=Extended Part to Part R24
+Added Parameter LCSC Part Name=18.7kΩ ±1% 125mW 厚膜电阻 to Part R15
+Added Parameter LCSC Part Name=18.7kΩ ±1% 125mW 厚膜电阻 to Part R24
+Added Parameter Manufacturer Part=0805W8F1872T5E to Part R15
+Added Parameter Manufacturer Part=0805W8F1872T5E to Part R24
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R15
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R24
+Added Parameter ManufacturerPart= to Part R15
+Added Parameter ManufacturerPart= to Part R24
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R15
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R24
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R15
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R24
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R15
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R24
+Added Parameter Operating Temperature Range= to Part R15
+Added Parameter Operating Temperature Range= to Part R24
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R15
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R24
+Added Parameter Overload Voltage (Max)= to Part R15
+Added Parameter Overload Voltage (Max)= to Part R24
+Added Parameter Power(Watts)=125mW to Part R15
+Added Parameter Power(Watts)=125mW to Part R24
+Added Parameter Reuse Block= to Part R15
+Added Parameter Reuse Block= to Part R24
+Added Parameter Source=P1.SCHLIB to Part R15
+Added Parameter Source=P1.SCHLIB to Part R24
+Added Parameter Supplier Footprint=0805 to Part R15
+Added Parameter Supplier Footprint=0805 to Part R24
+Added Parameter Supplier Part=C17499 to Part R15
+Added Parameter Supplier Part=C17499 to Part R24
+Added Parameter SupplierPart= to Part R15
+Added Parameter SupplierPart= to Part R24
+Added Parameter Symbol=0805W8F1872T5E to Part R15
+Added Parameter Symbol=0805W8F1872T5E to Part R24
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R15
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R24
+Added Parameter Tolerance=1% to Part R15
+Added Parameter Tolerance=1% to Part R24
+Added Parameter Type=Thick Film Resistor to Part R15
+Added Parameter Type=Thick Film Resistor to Part R24
+Added Parameter Voltage-Supply(Max)=150V to Part R15
+Added Parameter Voltage-Supply(Max)=150V to Part R24
+Update Managed Component R15 From CMP-016-000004-1[Resistor] To CMP-016-000004-1[0805W8F1872T5E] in LPF.SchDoc
+Update Managed Component R24 From CMP-016-000004-1[Resistor] To CMP-016-000004-1[0805W8F1872T5E] in LPF.SchDoc

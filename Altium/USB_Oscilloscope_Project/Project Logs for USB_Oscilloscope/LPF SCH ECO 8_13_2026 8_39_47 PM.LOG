@@ -1,0 +1,136 @@
+Removed Parameter CPAR: from Part C4
+Removed Parameter CPAR: from Part C7
+Removed Parameter CPAR: from Part C16
+Removed Parameter CPAR: from Part C17
+Removed Parameter LSER: from Part C4
+Removed Parameter LSER: from Part C7
+Removed Parameter LSER: from Part C16
+Removed Parameter LSER: from Part C17
+Removed Parameter RLSHUNT: from Part C4
+Removed Parameter RLSHUNT: from Part C7
+Removed Parameter RLSHUNT: from Part C16
+Removed Parameter RLSHUNT: from Part C17
+Removed Parameter RPAR: from Part C4
+Removed Parameter RPAR: from Part C7
+Removed Parameter RPAR: from Part C16
+Removed Parameter RPAR: from Part C17
+Removed Parameter RSER: from Part C4
+Removed Parameter RSER: from Part C7
+Removed Parameter RSER: from Part C16
+Removed Parameter RSER: from Part C17
+Removed Parameter SimulationGenericComponent:True from Part C4
+Removed Parameter SimulationGenericComponent:True from Part C7
+Removed Parameter SimulationGenericComponent:True from Part C16
+Removed Parameter SimulationGenericComponent:True from Part C17
+Removed Parameter TEMP: from Part C4
+Removed Parameter TEMP: from Part C7
+Removed Parameter TEMP: from Part C16
+Removed Parameter TEMP: from Part C17
+Change Value of Parameter Value in Part C4 Old=10p New=10pF
+Change Value of Parameter Value in Part C7 Old=10p New=10pF
+Change Value of Parameter Value in Part C16 Old=10p New=10pF
+Change Value of Parameter Value in Part C17 Old=10p New=10pF
+Added Parameter AddInBom=yes to Part C4
+Added Parameter AddInBom=yes to Part C7
+Added Parameter AddInBom=yes to Part C16
+Added Parameter AddInBom=yes to Part C17
+Added Parameter Channel ID= to Part C4
+Added Parameter Channel ID= to Part C7
+Added Parameter Channel ID= to Part C16
+Added Parameter Channel ID= to Part C17
+Added Parameter ConvertToPcb=yes to Part C4
+Added Parameter ConvertToPcb=yes to Part C7
+Added Parameter ConvertToPcb=yes to Part C16
+Added Parameter ConvertToPcb=yes to Part C17
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/VJ0805A100FXACW1BC/2269676.html to Part C4
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/VJ0805A100FXACW1BC/2269676.html to Part C7
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/VJ0805A100FXACW1BC/2269676.html to Part C16
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/VJ0805A100FXACW1BC/2269676.html to Part C17
+Added Parameter Design Item ID=VJ0805A100FXACW1BC to Part C4
+Added Parameter Design Item ID=VJ0805A100FXACW1BC to Part C7
+Added Parameter Design Item ID=VJ0805A100FXACW1BC to Part C16
+Added Parameter Design Item ID=VJ0805A100FXACW1BC to Part C17
+Added Parameter Device=VJ0805A100FXACW1BC to Part C4
+Added Parameter Device=VJ0805A100FXACW1BC to Part C7
+Added Parameter Device=VJ0805A100FXACW1BC to Part C16
+Added Parameter Device=VJ0805A100FXACW1BC to Part C17
+Added Parameter FootprintName=C0805 to Part C4
+Added Parameter FootprintName=C0805 to Part C7
+Added Parameter FootprintName=C0805 to Part C16
+Added Parameter FootprintName=C0805 to Part C17
+Added Parameter Group ID= to Part C4
+Added Parameter Group ID= to Part C7
+Added Parameter Group ID= to Part C16
+Added Parameter Group ID= to Part C17
+Added Parameter JLCPCB Part Class=Extended Part to Part C4
+Added Parameter JLCPCB Part Class=Extended Part to Part C7
+Added Parameter JLCPCB Part Class=Extended Part to Part C16
+Added Parameter JLCPCB Part Class=Extended Part to Part C17
+Added Parameter LCSC Part Name=10pF ±1% 50V to Part C4
+Added Parameter LCSC Part Name=10pF ±1% 50V to Part C7
+Added Parameter LCSC Part Name=10pF ±1% 50V to Part C16
+Added Parameter LCSC Part Name=10pF ±1% 50V to Part C17
+Added Parameter Manufacturer Part= to Part C4
+Added Parameter Manufacturer Part= to Part C7
+Added Parameter Manufacturer Part= to Part C16
+Added Parameter Manufacturer Part= to Part C17
+Added Parameter Manufacturer=VISHAY(威世) to Part C4
+Added Parameter Manufacturer=VISHAY(威世) to Part C7
+Added Parameter Manufacturer=VISHAY(威世) to Part C16
+Added Parameter Manufacturer=VISHAY(威世) to Part C17
+Added Parameter ManufacturerPart=VJ0805A100FXACW1BC to Part C4
+Added Parameter ManufacturerPart=VJ0805A100FXACW1BC to Part C7
+Added Parameter ManufacturerPart=VJ0805A100FXACW1BC to Part C16
+Added Parameter ManufacturerPart=VJ0805A100FXACW1BC to Part C17
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C4
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C7
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C16
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C17
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C4
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C7
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C16
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C17
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C4
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C7
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C16
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C17
+Added Parameter Reuse Block= to Part C4
+Added Parameter Reuse Block= to Part C7
+Added Parameter Reuse Block= to Part C16
+Added Parameter Reuse Block= to Part C17
+Added Parameter Source=P1.SCHLIB to Part C4
+Added Parameter Source=P1.SCHLIB to Part C7
+Added Parameter Source=P1.SCHLIB to Part C16
+Added Parameter Source=P1.SCHLIB to Part C17
+Added Parameter Supplier Footprint=0805 to Part C4
+Added Parameter Supplier Footprint=0805 to Part C7
+Added Parameter Supplier Footprint=0805 to Part C16
+Added Parameter Supplier Footprint=0805 to Part C17
+Added Parameter Supplier Part= to Part C4
+Added Parameter Supplier Part= to Part C7
+Added Parameter Supplier Part= to Part C16
+Added Parameter Supplier Part= to Part C17
+Added Parameter SupplierPart=C2177610 to Part C4
+Added Parameter SupplierPart=C2177610 to Part C7
+Added Parameter SupplierPart=C2177610 to Part C16
+Added Parameter SupplierPart=C2177610 to Part C17
+Added Parameter Symbol=VJ0805A100FXACW1BC to Part C4
+Added Parameter Symbol=VJ0805A100FXACW1BC to Part C7
+Added Parameter Symbol=VJ0805A100FXACW1BC to Part C16
+Added Parameter Symbol=VJ0805A100FXACW1BC to Part C17
+Added Parameter Temperature Coefficient=C0G to Part C4
+Added Parameter Temperature Coefficient=C0G to Part C7
+Added Parameter Temperature Coefficient=C0G to Part C16
+Added Parameter Temperature Coefficient=C0G to Part C17
+Added Parameter Tolerance=1% to Part C4
+Added Parameter Tolerance=1% to Part C7
+Added Parameter Tolerance=1% to Part C16
+Added Parameter Tolerance=1% to Part C17
+Added Parameter Voltage Rating=50V to Part C4
+Added Parameter Voltage Rating=50V to Part C7
+Added Parameter Voltage Rating=50V to Part C16
+Added Parameter Voltage Rating=50V to Part C17
+Update Managed Component C4 From CMP-015-000004-1[Capacitor] To CMP-015-000004-1[VJ0805A100FXACW1BC] in LPF.SchDoc
+Update Managed Component C7 From CMP-015-000004-1[Capacitor] To CMP-015-000004-1[VJ0805A100FXACW1BC] in LPF.SchDoc
+Update Managed Component C16 From CMP-015-000004-1[Capacitor] To CMP-015-000004-1[VJ0805A100FXACW1BC] in LPF.SchDoc
+Update Managed Component C17 From CMP-015-000004-1[Capacitor] To CMP-015-000004-1[VJ0805A100FXACW1BC] in LPF.SchDoc

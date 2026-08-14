@@ -1,0 +1,22 @@
+Removed Parameter Manufacturer Part:AQY282SX from Part U3
+Removed Parameter Manufacturer Part:AQY282SX from Part U4
+Removed Parameter Manufacturer Part:BNC-KWE-6 from Part BNC1
+Removed Parameter Manufacturer Part:BNC-KWE-6 from Part BNC2
+Removed Parameter Manufacturer Part:TCC0805COG200J500BT from Part C1
+Removed Parameter Manufacturer Part:TCC0805COG200J500BT from Part C11
+Removed Parameter ManufacturerPart: from Part C2
+Removed Parameter ManufacturerPart: from Part C12
+Removed Parameter ManufacturerPart: from Part U3
+Removed Parameter ManufacturerPart: from Part U4
+Removed Parameter ManufacturerPart:BNC-KWE-6 from Part BNC1
+Removed Parameter ManufacturerPart:BNC-KWE-6 from Part BNC2
+Removed Parameter ManufacturerPart:HFD4/5-SR from Part RELAY1
+Removed Parameter ManufacturerPart:HFD4/5-SR from Part RELAY2
+Removed Parameter ManufacturerPart:TCC0805COG200J500BT from Part C1
+Removed Parameter ManufacturerPart:TCC0805COG200J500BT from Part C11
+Added Parameter Manufacturer Part Number=AQY282SX to Part U3
+Added Parameter Manufacturer Part Number=AQY282SX to Part U4
+Added Parameter Manufacturer Part Number=HFD4/5-SR to Part RELAY1
+Added Parameter Manufacturer Part Number=HFD4/5-SR to Part RELAY2
+Added Parameter Manufacturer Part Number=TCC0805COG200J500BT to Part C1
+Added Parameter Manufacturer Part Number=TCC0805COG200J500BT to Part C11

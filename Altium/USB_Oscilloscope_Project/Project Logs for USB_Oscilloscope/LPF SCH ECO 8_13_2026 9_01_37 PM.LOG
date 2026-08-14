@@ -1,0 +1,4 @@
+Added Parameter ManufacturerPart=TCC0805COG200J500BT to Part C6
+Added Parameter ManufacturerPart=TCC0805COG200J500BT to Part C15
+Update Managed Component C6 From CMP-00003-4[Capacitor] To CMP-00003-4[TCC0805COG200J500BT] in LPF.SchDoc
+Update Managed Component C15 From CMP-00003-4[Capacitor] To CMP-00003-4[TCC0805COG200J500BT] in LPF.SchDoc

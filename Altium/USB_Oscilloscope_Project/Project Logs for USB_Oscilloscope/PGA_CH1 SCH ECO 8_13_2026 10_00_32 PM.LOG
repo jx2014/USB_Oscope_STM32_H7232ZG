@@ -1,0 +1,78 @@
+Removed Parameter DTEMP: from Part R29
+Removed Parameter DTEMP: from Part R33
+Removed Parameter SimulationGenericComponent:True from Part R29
+Removed Parameter SimulationGenericComponent:True from Part R33
+Removed Parameter T_REL_LOCAL: from Part R29
+Removed Parameter T_REL_LOCAL: from Part R33
+Removed Parameter TC1:0 from Part R29
+Removed Parameter TC1:0 from Part R33
+Removed Parameter TC2:0 from Part R29
+Removed Parameter TC2:0 from Part R33
+Removed Parameter TC: from Part R29
+Removed Parameter TC: from Part R33
+Removed Parameter TEMP: from Part R29
+Removed Parameter TEMP: from Part R33
+Change Value of Parameter Value in Part R29 Old=5760 New=5.76k
+Change Value of Parameter Value in Part R33 Old=5760 New=5.76k
+Added Parameter AddInBom=yes to Part R29
+Added Parameter AddInBom=yes to Part R33
+Added Parameter Channel ID= to Part R29
+Added Parameter Channel ID= to Part R33
+Added Parameter ConvertToPcb=yes to Part R29
+Added Parameter ConvertToPcb=yes to Part R33
+Added Parameter Datasheet= to Part R29
+Added Parameter Datasheet= to Part R33
+Added Parameter Design Item ID=FRC0805F5761TS to Part R29
+Added Parameter Design Item ID=FRC0805F5761TS to Part R33
+Added Parameter Device=FRC0805F5761TS to Part R29
+Added Parameter Device=FRC0805F5761TS to Part R33
+Added Parameter FootprintName=R0805 to Part R29
+Added Parameter FootprintName=R0805 to Part R33
+Added Parameter Group ID= to Part R29
+Added Parameter Group ID= to Part R33
+Added Parameter JLCPCB Part Class=Extended Part to Part R29
+Added Parameter JLCPCB Part Class=Extended Part to Part R33
+Added Parameter LCSC Part Name=5.76kΩ ±1% 125mW 厚膜电阻 to Part R29
+Added Parameter LCSC Part Name=5.76kΩ ±1% 125mW 厚膜电阻 to Part R33
+Added Parameter Manufacturer Part= to Part R29
+Added Parameter Manufacturer Part= to Part R33
+Added Parameter Manufacturer=FOJAN(富捷) to Part R29
+Added Parameter Manufacturer=FOJAN(富捷) to Part R33
+Added Parameter ManufacturerPart=FRC0805F5761TS to Part R29
+Added Parameter ManufacturerPart=FRC0805F5761TS to Part R33
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R29
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R33
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R29
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R33
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R29
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R33
+Added Parameter Operating Temperature Range= to Part R29
+Added Parameter Operating Temperature Range= to Part R33
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R29
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R33
+Added Parameter Overload Voltage (Max)= to Part R29
+Added Parameter Overload Voltage (Max)= to Part R33
+Added Parameter Power(Watts)=125mW to Part R29
+Added Parameter Power(Watts)=125mW to Part R33
+Added Parameter Reuse Block= to Part R29
+Added Parameter Reuse Block= to Part R33
+Added Parameter Source=P1.SCHLIB to Part R29
+Added Parameter Source=P1.SCHLIB to Part R33
+Added Parameter Supplier Footprint=0805 to Part R29
+Added Parameter Supplier Footprint=0805 to Part R33
+Added Parameter Supplier Part= to Part R29
+Added Parameter Supplier Part= to Part R33
+Added Parameter SupplierPart=C3000533 to Part R29
+Added Parameter SupplierPart=C3000533 to Part R33
+Added Parameter Symbol=FRC0805F5761TS to Part R29
+Added Parameter Symbol=FRC0805F5761TS to Part R33
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R29
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R33
+Added Parameter Tolerance=1% to Part R29
+Added Parameter Tolerance=1% to Part R33
+Added Parameter Type=Thick Film Resistor to Part R29
+Added Parameter Type=Thick Film Resistor to Part R33
+Added Parameter Voltage-Supply(Max)=150V to Part R29
+Added Parameter Voltage-Supply(Max)=150V to Part R33
+Update Managed Component R29 From CMP-016-000013-1[Resistor] To CMP-016-000013-1[FRC0805F5761TS] in PGA_CH1.SchDoc
+Update Managed Component R33 From CMP-016-000013-1[Resistor] To CMP-016-000013-1[FRC0805F5761TS] in PGA_CH1.SchDoc

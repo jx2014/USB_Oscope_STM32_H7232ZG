@@ -1,0 +1,156 @@
+Removed Parameter DTEMP: from Part R37
+Removed Parameter DTEMP: from Part R40
+Removed Parameter DTEMP: from Part R41
+Removed Parameter DTEMP: from Part R43
+Removed Parameter SimulationGenericComponent:True from Part R37
+Removed Parameter SimulationGenericComponent:True from Part R40
+Removed Parameter SimulationGenericComponent:True from Part R41
+Removed Parameter SimulationGenericComponent:True from Part R43
+Removed Parameter T_REL_LOCAL: from Part R37
+Removed Parameter T_REL_LOCAL: from Part R40
+Removed Parameter T_REL_LOCAL: from Part R41
+Removed Parameter T_REL_LOCAL: from Part R43
+Removed Parameter TC1:0 from Part R37
+Removed Parameter TC1:0 from Part R40
+Removed Parameter TC1:0 from Part R41
+Removed Parameter TC1:0 from Part R43
+Removed Parameter TC2:0 from Part R37
+Removed Parameter TC2:0 from Part R40
+Removed Parameter TC2:0 from Part R41
+Removed Parameter TC2:0 from Part R43
+Removed Parameter TC: from Part R37
+Removed Parameter TC: from Part R40
+Removed Parameter TC: from Part R41
+Removed Parameter TC: from Part R43
+Removed Parameter TEMP: from Part R37
+Removed Parameter TEMP: from Part R40
+Removed Parameter TEMP: from Part R41
+Removed Parameter TEMP: from Part R43
+Change Value of Parameter Value in Part R37 Old=10K New=10k
+Change Value of Parameter Value in Part R40 Old=10K New=10k
+Change Value of Parameter Value in Part R41 Old=10K New=10k
+Change Value of Parameter Value in Part R43 Old=10K New=10k
+Added Parameter AddInBom=yes to Part R37
+Added Parameter AddInBom=yes to Part R40
+Added Parameter AddInBom=yes to Part R41
+Added Parameter AddInBom=yes to Part R43
+Added Parameter Channel ID= to Part R37
+Added Parameter Channel ID= to Part R40
+Added Parameter Channel ID= to Part R41
+Added Parameter Channel ID= to Part R43
+Added Parameter ConvertToPcb=yes to Part R37
+Added Parameter ConvertToPcb=yes to Part R40
+Added Parameter ConvertToPcb=yes to Part R41
+Added Parameter ConvertToPcb=yes to Part R43
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html to Part R37
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html to Part R40
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html to Part R41
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html to Part R43
+Added Parameter Design Item ID=0805W8F1002T5E to Part R37
+Added Parameter Design Item ID=0805W8F1002T5E to Part R40
+Added Parameter Design Item ID=0805W8F1002T5E to Part R41
+Added Parameter Design Item ID=0805W8F1002T5E to Part R43
+Added Parameter Device=0805W8F1002T5E to Part R37
+Added Parameter Device=0805W8F1002T5E to Part R40
+Added Parameter Device=0805W8F1002T5E to Part R41
+Added Parameter Device=0805W8F1002T5E to Part R43
+Added Parameter FootprintName=R0805 to Part R37
+Added Parameter FootprintName=R0805 to Part R40
+Added Parameter FootprintName=R0805 to Part R41
+Added Parameter FootprintName=R0805 to Part R43
+Added Parameter Group ID= to Part R37
+Added Parameter Group ID= to Part R40
+Added Parameter Group ID= to Part R41
+Added Parameter Group ID= to Part R43
+Added Parameter JLCPCB Part Class=Basic Part to Part R37
+Added Parameter JLCPCB Part Class=Basic Part to Part R40
+Added Parameter JLCPCB Part Class=Basic Part to Part R41
+Added Parameter JLCPCB Part Class=Basic Part to Part R43
+Added Parameter LCSC Part Name=10kΩ ±1% 125mW 厚膜电阻 to Part R37
+Added Parameter LCSC Part Name=10kΩ ±1% 125mW 厚膜电阻 to Part R40
+Added Parameter LCSC Part Name=10kΩ ±1% 125mW 厚膜电阻 to Part R41
+Added Parameter LCSC Part Name=10kΩ ±1% 125mW 厚膜电阻 to Part R43
+Added Parameter Manufacturer Part= to Part R37
+Added Parameter Manufacturer Part= to Part R40
+Added Parameter Manufacturer Part= to Part R41
+Added Parameter Manufacturer Part= to Part R43
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R37
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R40
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R41
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R43
+Added Parameter ManufacturerPart=0805W8F1002T5E to Part R37
+Added Parameter ManufacturerPart=0805W8F1002T5E to Part R40
+Added Parameter ManufacturerPart=0805W8F1002T5E to Part R41
+Added Parameter ManufacturerPart=0805W8F1002T5E to Part R43
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R37
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R40
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R41
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R43
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R37
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R40
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R41
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R43
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R37
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R40
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R41
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R43
+Added Parameter Operating Temperature Range= to Part R37
+Added Parameter Operating Temperature Range= to Part R40
+Added Parameter Operating Temperature Range= to Part R41
+Added Parameter Operating Temperature Range= to Part R43
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R37
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R40
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R41
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R43
+Added Parameter Overload Voltage (Max)= to Part R37
+Added Parameter Overload Voltage (Max)= to Part R40
+Added Parameter Overload Voltage (Max)= to Part R41
+Added Parameter Overload Voltage (Max)= to Part R43
+Added Parameter Power(Watts)=125mW to Part R37
+Added Parameter Power(Watts)=125mW to Part R40
+Added Parameter Power(Watts)=125mW to Part R41
+Added Parameter Power(Watts)=125mW to Part R43
+Added Parameter Reuse Block= to Part R37
+Added Parameter Reuse Block= to Part R40
+Added Parameter Reuse Block= to Part R41
+Added Parameter Reuse Block= to Part R43
+Added Parameter Source=P1.SCHLIB to Part R37
+Added Parameter Source=P1.SCHLIB to Part R40
+Added Parameter Source=P1.SCHLIB to Part R41
+Added Parameter Source=P1.SCHLIB to Part R43
+Added Parameter Supplier Footprint=0805 to Part R37
+Added Parameter Supplier Footprint=0805 to Part R40
+Added Parameter Supplier Footprint=0805 to Part R41
+Added Parameter Supplier Footprint=0805 to Part R43
+Added Parameter Supplier Part= to Part R37
+Added Parameter Supplier Part= to Part R40
+Added Parameter Supplier Part= to Part R41
+Added Parameter Supplier Part= to Part R43
+Added Parameter SupplierPart=C17414 to Part R37
+Added Parameter SupplierPart=C17414 to Part R40
+Added Parameter SupplierPart=C17414 to Part R41
+Added Parameter SupplierPart=C17414 to Part R43
+Added Parameter Symbol=0805W8F1002T5E to Part R37
+Added Parameter Symbol=0805W8F1002T5E to Part R40
+Added Parameter Symbol=0805W8F1002T5E to Part R41
+Added Parameter Symbol=0805W8F1002T5E to Part R43
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R37
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R40
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R41
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R43
+Added Parameter Tolerance=1% to Part R37
+Added Parameter Tolerance=1% to Part R40
+Added Parameter Tolerance=1% to Part R41
+Added Parameter Tolerance=1% to Part R43
+Added Parameter Type=Thick Film Resistor to Part R37
+Added Parameter Type=Thick Film Resistor to Part R40
+Added Parameter Type=Thick Film Resistor to Part R41
+Added Parameter Type=Thick Film Resistor to Part R43
+Added Parameter Voltage-Supply(Max)=150V to Part R37
+Added Parameter Voltage-Supply(Max)=150V to Part R40
+Added Parameter Voltage-Supply(Max)=150V to Part R41
+Added Parameter Voltage-Supply(Max)=150V to Part R43
+Update Managed Component R37 From CMP-016-000002-1[Resistor] To CMP-016-000002-1[0805W8F1002T5E] in REF_VOLTAGE_RELAY_DRIVER.SchDoc
+Update Managed Component R40 From CMP-016-000002-1[Resistor] To CMP-016-000002-1[0805W8F1002T5E] in REF_VOLTAGE_RELAY_DRIVER.SchDoc
+Update Managed Component R41 From CMP-016-000002-1[Resistor] To CMP-016-000002-1[0805W8F1002T5E] in REF_VOLTAGE_RELAY_DRIVER.SchDoc
+Update Managed Component R43 From CMP-016-000002-1[Resistor] To CMP-016-000002-1[0805W8F1002T5E] in REF_VOLTAGE_RELAY_DRIVER.SchDoc

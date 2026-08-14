@@ -1,0 +1,48 @@
+Removed Parameter Manufacturer Part:0805W8F2002T5E from Part R31
+Removed Parameter Manufacturer Part:0805W8F2002T5E from Part R35
+Removed Parameter Manufacturer Part: from Part C19
+Removed Parameter Manufacturer Part: from Part C23
+Removed Parameter Manufacturer Part: from Part R29
+Removed Parameter Manufacturer Part: from Part R30
+Removed Parameter Manufacturer Part: from Part R32
+Removed Parameter Manufacturer Part: from Part R33
+Removed Parameter Manufacturer Part: from Part R34
+Removed Parameter Manufacturer Part: from Part R50
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C9
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C10
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C20
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C21
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C22
+Removed Parameter Manufacturer Part:CC0805JRX7R9BB104 from Part C24
+Removed Parameter ManufacturerPart:0805W8F1002T5E from Part R30
+Removed Parameter ManufacturerPart:0805W8F1002T5E from Part R34
+Removed Parameter ManufacturerPart: from Part R31
+Removed Parameter ManufacturerPart: from Part R35
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C9
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C10
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C20
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C21
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C22
+Removed Parameter ManufacturerPart:CC0805JRX7R9BB104 from Part C24
+Removed Parameter ManufacturerPart:FRC0805F1000TS from Part R32
+Removed Parameter ManufacturerPart:FRC0805F1000TS from Part R50
+Removed Parameter ManufacturerPart:FRC0805F5761TS from Part R29
+Removed Parameter ManufacturerPart:FRC0805F5761TS from Part R33
+Removed Parameter ManufacturerPart:TCC0805X5R226K100FT from Part C19
+Removed Parameter ManufacturerPart:TCC0805X5R226K100FT from Part C23
+Added Parameter Manufacturer Part Number=0805W8F1002T5E to Part R30
+Added Parameter Manufacturer Part Number=0805W8F1002T5E to Part R34
+Added Parameter Manufacturer Part Number=0805W8F2002T5E to Part R31
+Added Parameter Manufacturer Part Number=0805W8F2002T5E to Part R35
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C9
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C10
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C20
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C21
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C22
+Added Parameter Manufacturer Part Number=CC0805JRX7R9BB104 to Part C24
+Added Parameter Manufacturer Part Number=FRC0805F1000TS to Part R32
+Added Parameter Manufacturer Part Number=FRC0805F1000TS to Part R50
+Added Parameter Manufacturer Part Number=FRC0805F5761TS to Part R29
+Added Parameter Manufacturer Part Number=FRC0805F5761TS to Part R33
+Added Parameter Manufacturer Part Number=TCC0805X5R226K100FT to Part C19
+Added Parameter Manufacturer Part Number=TCC0805X5R226K100FT to Part C23

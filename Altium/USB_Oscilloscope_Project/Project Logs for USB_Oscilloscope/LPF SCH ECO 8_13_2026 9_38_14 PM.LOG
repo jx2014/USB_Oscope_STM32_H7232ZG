@@ -1,0 +1,68 @@
+Removed Parameter CPAR: from Part C5
+Removed Parameter CPAR: from Part C14
+Removed Parameter LSER: from Part C5
+Removed Parameter LSER: from Part C14
+Removed Parameter RLSHUNT: from Part C5
+Removed Parameter RLSHUNT: from Part C14
+Removed Parameter RPAR: from Part C5
+Removed Parameter RPAR: from Part C14
+Removed Parameter RSER: from Part C5
+Removed Parameter RSER: from Part C14
+Removed Parameter SimulationGenericComponent:True from Part C5
+Removed Parameter SimulationGenericComponent:True from Part C14
+Removed Parameter TEMP: from Part C5
+Removed Parameter TEMP: from Part C14
+Change Value of Parameter Value in Part C5 Old=22p New=22pF
+Change Value of Parameter Value in Part C14 Old=22p New=22pF
+Added Parameter AddInBom=yes to Part C5
+Added Parameter AddInBom=yes to Part C14
+Added Parameter Channel ID= to Part C5
+Added Parameter Channel ID= to Part C14
+Added Parameter ConvertToPcb=yes to Part C5
+Added Parameter ConvertToPcb=yes to Part C14
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805CG220F500NT/208470.html to Part C5
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805CG220F500NT/208470.html to Part C14
+Added Parameter Design Item ID=0805CG220F500NT to Part C5
+Added Parameter Design Item ID=0805CG220F500NT to Part C14
+Added Parameter Device=0805CG220F500NT to Part C5
+Added Parameter Device=0805CG220F500NT to Part C14
+Added Parameter FootprintName=C0805 to Part C5
+Added Parameter FootprintName=C0805 to Part C14
+Added Parameter Group ID= to Part C5
+Added Parameter Group ID= to Part C14
+Added Parameter JLCPCB Part Class=Extended Part to Part C5
+Added Parameter JLCPCB Part Class=Extended Part to Part C14
+Added Parameter LCSC Part Name=22pF ±1% 50V to Part C5
+Added Parameter LCSC Part Name=22pF ±1% 50V to Part C14
+Added Parameter Manufacturer Part= to Part C5
+Added Parameter Manufacturer Part= to Part C14
+Added Parameter Manufacturer=FH(风华) to Part C5
+Added Parameter Manufacturer=FH(风华) to Part C14
+Added Parameter ManufacturerPart=0805CG220F500NT to Part C5
+Added Parameter ManufacturerPart=0805CG220F500NT to Part C14
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C5
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C14
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C5
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C14
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C5
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C14
+Added Parameter Reuse Block= to Part C5
+Added Parameter Reuse Block= to Part C14
+Added Parameter Source=P1.SCHLIB to Part C5
+Added Parameter Source=P1.SCHLIB to Part C14
+Added Parameter Supplier Footprint=0805 to Part C5
+Added Parameter Supplier Footprint=0805 to Part C14
+Added Parameter Supplier Part= to Part C5
+Added Parameter Supplier Part= to Part C14
+Added Parameter SupplierPart=C190088 to Part C5
+Added Parameter SupplierPart=C190088 to Part C14
+Added Parameter Symbol=0805CG220F500NT to Part C5
+Added Parameter Symbol=0805CG220F500NT to Part C14
+Added Parameter Temperature Coefficient=C0G to Part C5
+Added Parameter Temperature Coefficient=C0G to Part C14
+Added Parameter Tolerance=1% to Part C5
+Added Parameter Tolerance=1% to Part C14
+Added Parameter Voltage Rating=50V to Part C5
+Added Parameter Voltage Rating=50V to Part C14
+Update Managed Component C5 From CMP-015-000002-1[Capacitor] To CMP-015-000002-1[0805CG220F500NT] in LPF.SchDoc
+Update Managed Component C14 From CMP-015-000002-1[Capacitor] To CMP-015-000002-1[0805CG220F500NT] in LPF.SchDoc

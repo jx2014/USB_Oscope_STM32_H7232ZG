@@ -1,0 +1,4 @@
+Added Parameter ManufacturerPart=TCC0805COG200J500BT to Part C1
+Added Parameter ManufacturerPart=TCC0805COG200J500BT to Part C11
+Update Managed Component C1 From CMP-00003-4[20PF] To CMP-00003-4[TCC0805COG200J500BT] in Analog_Input.SchDoc
+Update Managed Component C11 From CMP-00003-4[Capacitor] To CMP-00003-4[TCC0805COG200J500BT] in Analog_Input.SchDoc

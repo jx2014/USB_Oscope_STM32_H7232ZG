@@ -1,0 +1,78 @@
+Removed Parameter DTEMP: from Part R4
+Removed Parameter DTEMP: from Part R10
+Removed Parameter SimulationGenericComponent:True from Part R4
+Removed Parameter SimulationGenericComponent:True from Part R10
+Removed Parameter T_REL_LOCAL: from Part R4
+Removed Parameter T_REL_LOCAL: from Part R10
+Removed Parameter TC1:0 from Part R4
+Removed Parameter TC1:0 from Part R10
+Removed Parameter TC2:0 from Part R4
+Removed Parameter TC2:0 from Part R10
+Removed Parameter TC: from Part R4
+Removed Parameter TC: from Part R10
+Removed Parameter TEMP: from Part R4
+Removed Parameter TEMP: from Part R10
+Change Value of Parameter Value in Part R4 Old=100K New=100k
+Change Value of Parameter Value in Part R10 Old=100K New=100k
+Added Parameter AddInBom=yes to Part R4
+Added Parameter AddInBom=yes to Part R10
+Added Parameter Channel ID= to Part R4
+Added Parameter Channel ID= to Part R10
+Added Parameter ConvertToPcb=yes to Part R4
+Added Parameter ConvertToPcb=yes to Part R10
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1003T5E/160838.html to Part R4
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1003T5E/160838.html to Part R10
+Added Parameter Design Item ID=0805W8F1003T5E to Part R4
+Added Parameter Design Item ID=0805W8F1003T5E to Part R10
+Added Parameter Device=0805W8F1003T5E to Part R4
+Added Parameter Device=0805W8F1003T5E to Part R10
+Added Parameter FootprintName=R0805 to Part R4
+Added Parameter FootprintName=R0805 to Part R10
+Added Parameter Group ID= to Part R4
+Added Parameter Group ID= to Part R10
+Added Parameter JLCPCB Part Class=Basic Part to Part R4
+Added Parameter JLCPCB Part Class=Basic Part to Part R10
+Added Parameter LCSC Part Name=100kΩ ±1% 125mW 厚膜电阻 to Part R4
+Added Parameter LCSC Part Name=100kΩ ±1% 125mW 厚膜电阻 to Part R10
+Added Parameter Manufacturer Part=0805W8F1003T5E to Part R4
+Added Parameter Manufacturer Part=0805W8F1003T5E to Part R10
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R4
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R10
+Added Parameter ManufacturerPart= to Part R4
+Added Parameter ManufacturerPart= to Part R10
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R4
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R10
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R4
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R10
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R4
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R10
+Added Parameter Operating Temperature Range= to Part R4
+Added Parameter Operating Temperature Range= to Part R10
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R4
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R10
+Added Parameter Overload Voltage (Max)= to Part R4
+Added Parameter Overload Voltage (Max)= to Part R10
+Added Parameter Power(Watts)=125mW to Part R4
+Added Parameter Power(Watts)=125mW to Part R10
+Added Parameter Reuse Block= to Part R4
+Added Parameter Reuse Block= to Part R10
+Added Parameter Source=P1.SCHLIB to Part R4
+Added Parameter Source=P1.SCHLIB to Part R10
+Added Parameter Supplier Footprint=0805 to Part R4
+Added Parameter Supplier Footprint=0805 to Part R10
+Added Parameter Supplier Part=C149504 to Part R4
+Added Parameter Supplier Part=C149504 to Part R10
+Added Parameter SupplierPart= to Part R4
+Added Parameter SupplierPart= to Part R10
+Added Parameter Symbol=0805W8F1003T5E_C149504 to Part R4
+Added Parameter Symbol=0805W8F1003T5E_C149504 to Part R10
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R4
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R10
+Added Parameter Tolerance=1% to Part R4
+Added Parameter Tolerance=1% to Part R10
+Added Parameter Type=Thick Film Resistor to Part R4
+Added Parameter Type=Thick Film Resistor to Part R10
+Added Parameter Voltage-Supply(Max)=150V to Part R4
+Added Parameter Voltage-Supply(Max)=150V to Part R10
+Update Managed Component R4 From CMP-016-000003-1[Resistor] To CMP-016-000003-1[0805W8F1003T5E] in Analog_Input.SchDoc
+Update Managed Component R10 From CMP-016-000003-1[Resistor] To CMP-016-000003-1[0805W8F1003T5E] in Analog_Input.SchDoc

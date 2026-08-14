@@ -1,0 +1,40 @@
+Removed Parameter Manufacturer Part:0805W8F1003T5E from Part R4
+Removed Parameter Manufacturer Part:0805W8F1003T5E from Part R10
+Removed Parameter Manufacturer Part: from Part R1
+Removed Parameter Manufacturer Part: from Part R2
+Removed Parameter Manufacturer Part: from Part R3
+Removed Parameter Manufacturer Part: from Part R5
+Removed Parameter Manufacturer Part: from Part R6
+Removed Parameter Manufacturer Part: from Part R7
+Removed Parameter Manufacturer Part: from Part R8
+Removed Parameter Manufacturer Part: from Part R9
+Removed Parameter Manufacturer Part: from Part R11
+Removed Parameter Manufacturer Part: from Part R20
+Removed Parameter ManufacturerPart:0805W8F1001T5E from Part R5
+Removed Parameter ManufacturerPart:0805W8F1001T5E from Part R8
+Removed Parameter ManufacturerPart: from Part R4
+Removed Parameter ManufacturerPart: from Part R10
+Removed Parameter ManufacturerPart:FRC0805F1000TS from Part R2
+Removed Parameter ManufacturerPart:FRC0805F1000TS from Part R9
+Removed Parameter ManufacturerPart:FRC0805F1004TS from Part R1
+Removed Parameter ManufacturerPart:FRC0805F1004TS from Part R7
+Removed Parameter ManufacturerPart:FRC0805F1501TS from Part R6
+Removed Parameter ManufacturerPart:FRC0805F1501TS from Part R20
+Removed Parameter ManufacturerPart:FRC0805F9103TS from Part R3
+Removed Parameter ManufacturerPart:FRC0805F9103TS from Part R11
+Change Value of Parameter SupplierPart in Part U3 Old= New=C250827
+Change Value of Parameter SupplierPart in Part U4 Old= New=C250827
+Added Parameter Manufacturer Part Number=0805W8F1001T5E to Part R5
+Added Parameter Manufacturer Part Number=0805W8F1001T5E to Part R8
+Added Parameter Manufacturer Part Number=0805W8F1003T5E to Part R4
+Added Parameter Manufacturer Part Number=0805W8F1003T5E to Part R10
+Added Parameter Manufacturer Part Number=FRC0805F1000TS to Part R2
+Added Parameter Manufacturer Part Number=FRC0805F1000TS to Part R9
+Added Parameter Manufacturer Part Number=FRC0805F1004TS to Part R1
+Added Parameter Manufacturer Part Number=FRC0805F1004TS to Part R7
+Added Parameter Manufacturer Part Number=FRC0805F1501TS to Part R6
+Added Parameter Manufacturer Part Number=FRC0805F1501TS to Part R20
+Added Parameter Manufacturer Part Number=FRC0805F9103TS to Part R3
+Added Parameter Manufacturer Part Number=FRC0805F9103TS to Part R11
+Added Parameter SupplierPart=C5375851 to Part C1
+Added Parameter SupplierPart=C5375851 to Part C11

@@ -1,0 +1,136 @@
+Removed Parameter CPAR: from Part C9
+Removed Parameter CPAR: from Part C10
+Removed Parameter CPAR: from Part C21
+Removed Parameter CPAR: from Part C22
+Removed Parameter LSER: from Part C9
+Removed Parameter LSER: from Part C10
+Removed Parameter LSER: from Part C21
+Removed Parameter LSER: from Part C22
+Removed Parameter RLSHUNT: from Part C9
+Removed Parameter RLSHUNT: from Part C10
+Removed Parameter RLSHUNT: from Part C21
+Removed Parameter RLSHUNT: from Part C22
+Removed Parameter RPAR: from Part C9
+Removed Parameter RPAR: from Part C10
+Removed Parameter RPAR: from Part C21
+Removed Parameter RPAR: from Part C22
+Removed Parameter RSER: from Part C9
+Removed Parameter RSER: from Part C10
+Removed Parameter RSER: from Part C21
+Removed Parameter RSER: from Part C22
+Removed Parameter SimulationGenericComponent:True from Part C9
+Removed Parameter SimulationGenericComponent:True from Part C10
+Removed Parameter SimulationGenericComponent:True from Part C21
+Removed Parameter SimulationGenericComponent:True from Part C22
+Removed Parameter TEMP: from Part C9
+Removed Parameter TEMP: from Part C10
+Removed Parameter TEMP: from Part C21
+Removed Parameter TEMP: from Part C22
+Change Value of Parameter Value in Part C9 Old=0.1uF New=100nF
+Change Value of Parameter Value in Part C10 Old=0.1uF New=100nF
+Change Value of Parameter Value in Part C21 Old=0.1uF New=100nF
+Change Value of Parameter Value in Part C22 Old=0.1uF New=100nF
+Added Parameter AddInBom=yes to Part C9
+Added Parameter AddInBom=yes to Part C10
+Added Parameter AddInBom=yes to Part C21
+Added Parameter AddInBom=yes to Part C22
+Added Parameter Channel ID= to Part C9
+Added Parameter Channel ID= to Part C10
+Added Parameter Channel ID= to Part C21
+Added Parameter Channel ID= to Part C22
+Added Parameter ConvertToPcb=yes to Part C9
+Added Parameter ConvertToPcb=yes to Part C10
+Added Parameter ConvertToPcb=yes to Part C21
+Added Parameter ConvertToPcb=yes to Part C22
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C9
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C10
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C21
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C22
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C9
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C10
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C21
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C22
+Added Parameter Device=CC0805JRX7R9BB104 to Part C9
+Added Parameter Device=CC0805JRX7R9BB104 to Part C10
+Added Parameter Device=CC0805JRX7R9BB104 to Part C21
+Added Parameter Device=CC0805JRX7R9BB104 to Part C22
+Added Parameter FootprintName=C0805 to Part C9
+Added Parameter FootprintName=C0805 to Part C10
+Added Parameter FootprintName=C0805 to Part C21
+Added Parameter FootprintName=C0805 to Part C22
+Added Parameter Group ID= to Part C9
+Added Parameter Group ID= to Part C10
+Added Parameter Group ID= to Part C21
+Added Parameter Group ID= to Part C22
+Added Parameter JLCPCB Part Class=Extended Part to Part C9
+Added Parameter JLCPCB Part Class=Extended Part to Part C10
+Added Parameter JLCPCB Part Class=Extended Part to Part C21
+Added Parameter JLCPCB Part Class=Extended Part to Part C22
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C9
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C10
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C21
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C22
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C9
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C10
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C21
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C22
+Added Parameter Manufacturer=YAGEO(国巨) to Part C9
+Added Parameter Manufacturer=YAGEO(国巨) to Part C10
+Added Parameter Manufacturer=YAGEO(国巨) to Part C21
+Added Parameter Manufacturer=YAGEO(国巨) to Part C22
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C9
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C10
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C21
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C22
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C9
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C10
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C21
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C22
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C9
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C10
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C21
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C22
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C9
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C10
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C21
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C22
+Added Parameter Reuse Block= to Part C9
+Added Parameter Reuse Block= to Part C10
+Added Parameter Reuse Block= to Part C21
+Added Parameter Reuse Block= to Part C22
+Added Parameter Source=P1.SCHLIB to Part C9
+Added Parameter Source=P1.SCHLIB to Part C10
+Added Parameter Source=P1.SCHLIB to Part C21
+Added Parameter Source=P1.SCHLIB to Part C22
+Added Parameter Supplier Footprint=0805 to Part C9
+Added Parameter Supplier Footprint=0805 to Part C10
+Added Parameter Supplier Footprint=0805 to Part C21
+Added Parameter Supplier Footprint=0805 to Part C22
+Added Parameter Supplier Part=C111492 to Part C9
+Added Parameter Supplier Part=C111492 to Part C10
+Added Parameter Supplier Part=C111492 to Part C21
+Added Parameter Supplier Part=C111492 to Part C22
+Added Parameter SupplierPart= to Part C9
+Added Parameter SupplierPart= to Part C10
+Added Parameter SupplierPart= to Part C21
+Added Parameter SupplierPart= to Part C22
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C9
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C10
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C21
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C22
+Added Parameter Temperature Coefficient=X7R to Part C9
+Added Parameter Temperature Coefficient=X7R to Part C10
+Added Parameter Temperature Coefficient=X7R to Part C21
+Added Parameter Temperature Coefficient=X7R to Part C22
+Added Parameter Tolerance=5% to Part C9
+Added Parameter Tolerance=5% to Part C10
+Added Parameter Tolerance=5% to Part C21
+Added Parameter Tolerance=5% to Part C22
+Added Parameter Voltage Rating=50V to Part C9
+Added Parameter Voltage Rating=50V to Part C10
+Added Parameter Voltage Rating=50V to Part C21
+Added Parameter Voltage Rating=50V to Part C22
+Update Managed Component C9 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in PGA_CH1.SchDoc
+Update Managed Component C10 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in PGA_CH1.SchDoc
+Update Managed Component C21 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in PGA_CH1.SchDoc
+Update Managed Component C22 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in PGA_CH1.SchDoc

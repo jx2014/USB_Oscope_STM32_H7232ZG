@@ -1,0 +1,78 @@
+Removed Parameter DTEMP: from Part R13
+Removed Parameter DTEMP: from Part R22
+Removed Parameter SimulationGenericComponent:True from Part R13
+Removed Parameter SimulationGenericComponent:True from Part R22
+Removed Parameter T_REL_LOCAL: from Part R13
+Removed Parameter T_REL_LOCAL: from Part R22
+Removed Parameter TC1:0 from Part R13
+Removed Parameter TC1:0 from Part R22
+Removed Parameter TC2:0 from Part R13
+Removed Parameter TC2:0 from Part R22
+Removed Parameter TC: from Part R13
+Removed Parameter TC: from Part R22
+Removed Parameter TEMP: from Part R13
+Removed Parameter TEMP: from Part R22
+Change Value of Parameter Value in Part R13 Old=6.98K New=6.98k
+Change Value of Parameter Value in Part R22 Old=6.98K New=6.98k
+Added Parameter AddInBom=yes to Part R13
+Added Parameter AddInBom=yes to Part R22
+Added Parameter Channel ID= to Part R13
+Added Parameter Channel ID= to Part R22
+Added Parameter ConvertToPcb=yes to Part R13
+Added Parameter ConvertToPcb=yes to Part R22
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/FRC0805F6981TS/3279591.html to Part R13
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/FRC0805F6981TS/3279591.html to Part R22
+Added Parameter Design Item ID=FRC0805F6981TS to Part R13
+Added Parameter Design Item ID=FRC0805F6981TS to Part R22
+Added Parameter Device=FRC0805F6981TS to Part R13
+Added Parameter Device=FRC0805F6981TS to Part R22
+Added Parameter FootprintName=R0805 to Part R13
+Added Parameter FootprintName=R0805 to Part R22
+Added Parameter Group ID= to Part R13
+Added Parameter Group ID= to Part R22
+Added Parameter JLCPCB Part Class=Extended Part to Part R13
+Added Parameter JLCPCB Part Class=Extended Part to Part R22
+Added Parameter LCSC Part Name=6.98kΩ ±1% 125mW 厚膜电阻 to Part R13
+Added Parameter LCSC Part Name=6.98kΩ ±1% 125mW 厚膜电阻 to Part R22
+Added Parameter Manufacturer Part= to Part R13
+Added Parameter Manufacturer Part= to Part R22
+Added Parameter Manufacturer=FOJAN(富捷) to Part R13
+Added Parameter Manufacturer=FOJAN(富捷) to Part R22
+Added Parameter ManufacturerPart=FRC0805F6981TS to Part R13
+Added Parameter ManufacturerPart=FRC0805F6981TS to Part R22
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R13
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R22
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R13
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R22
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R13
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R22
+Added Parameter Operating Temperature Range= to Part R13
+Added Parameter Operating Temperature Range= to Part R22
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R13
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R22
+Added Parameter Overload Voltage (Max)= to Part R13
+Added Parameter Overload Voltage (Max)= to Part R22
+Added Parameter Power(Watts)=125mW to Part R13
+Added Parameter Power(Watts)=125mW to Part R22
+Added Parameter Reuse Block= to Part R13
+Added Parameter Reuse Block= to Part R22
+Added Parameter Source=P1.SCHLIB to Part R13
+Added Parameter Source=P1.SCHLIB to Part R22
+Added Parameter Supplier Footprint=0805 to Part R13
+Added Parameter Supplier Footprint=0805 to Part R22
+Added Parameter Supplier Part= to Part R13
+Added Parameter Supplier Part= to Part R22
+Added Parameter SupplierPart=C2933489 to Part R13
+Added Parameter SupplierPart=C2933489 to Part R22
+Added Parameter Symbol=FRC0805F6981TS to Part R13
+Added Parameter Symbol=FRC0805F6981TS to Part R22
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R13
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R22
+Added Parameter Tolerance=1% to Part R13
+Added Parameter Tolerance=1% to Part R22
+Added Parameter Type=Thick Film Resistor to Part R13
+Added Parameter Type=Thick Film Resistor to Part R22
+Added Parameter Voltage-Supply(Max)=150V to Part R13
+Added Parameter Voltage-Supply(Max)=150V to Part R22
+Update Managed Component R13 From CMP-016-000014-1[Resistor] To CMP-016-000014-1[FRC0805F6981TS] in LPF.SchDoc
+Update Managed Component R22 From CMP-016-000014-1[Resistor] To CMP-016-000014-1[FRC0805F6981TS] in LPF.SchDoc

@@ -1,0 +1,9 @@
+Removed Parameter Manufacturer Part:2.54-2*8P针 from Part J2
+Removed Parameter Manufacturer Part:2.54-2*10 from Part J1
+Removed Parameter Manufacturer Part: from Part J3
+Removed Parameter Manufacturer Part: from Part J4
+Removed Parameter ManufacturerPart: from Part J1
+Removed Parameter ManufacturerPart:PZ2.54-2*15 from Part J4
+Added Parameter Manufacturer Part Number=2.54-2*8P针 to Part J2
+Added Parameter Manufacturer Part Number=2.54-2*10 to Part J1
+Added Parameter Manufacturer Part Number=PZ2.54-2*15 to Part J4

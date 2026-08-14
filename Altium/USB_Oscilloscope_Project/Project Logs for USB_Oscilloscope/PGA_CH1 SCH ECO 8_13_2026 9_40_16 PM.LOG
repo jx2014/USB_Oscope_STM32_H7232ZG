@@ -1,0 +1,68 @@
+Removed Parameter CPAR: from Part C20
+Removed Parameter CPAR: from Part C24
+Removed Parameter LSER: from Part C20
+Removed Parameter LSER: from Part C24
+Removed Parameter RLSHUNT: from Part C20
+Removed Parameter RLSHUNT: from Part C24
+Removed Parameter RPAR: from Part C20
+Removed Parameter RPAR: from Part C24
+Removed Parameter RSER: from Part C20
+Removed Parameter RSER: from Part C24
+Removed Parameter SimulationGenericComponent:True from Part C20
+Removed Parameter SimulationGenericComponent:True from Part C24
+Removed Parameter TEMP: from Part C20
+Removed Parameter TEMP: from Part C24
+Change Value of Parameter Value in Part C20 Old=0.1u New=100nF
+Change Value of Parameter Value in Part C24 Old=0.1u New=100nF
+Added Parameter AddInBom=yes to Part C20
+Added Parameter AddInBom=yes to Part C24
+Added Parameter Channel ID= to Part C20
+Added Parameter Channel ID= to Part C24
+Added Parameter ConvertToPcb=yes to Part C20
+Added Parameter ConvertToPcb=yes to Part C24
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C20
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C24
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C20
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C24
+Added Parameter Device=CC0805JRX7R9BB104 to Part C20
+Added Parameter Device=CC0805JRX7R9BB104 to Part C24
+Added Parameter FootprintName=C0805 to Part C20
+Added Parameter FootprintName=C0805 to Part C24
+Added Parameter Group ID= to Part C20
+Added Parameter Group ID= to Part C24
+Added Parameter JLCPCB Part Class=Extended Part to Part C20
+Added Parameter JLCPCB Part Class=Extended Part to Part C24
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C20
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C24
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C20
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C24
+Added Parameter Manufacturer=YAGEO(国巨) to Part C20
+Added Parameter Manufacturer=YAGEO(国巨) to Part C24
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C20
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C24
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C20
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C24
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C20
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C24
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C20
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C24
+Added Parameter Reuse Block= to Part C20
+Added Parameter Reuse Block= to Part C24
+Added Parameter Source=P1.SCHLIB to Part C20
+Added Parameter Source=P1.SCHLIB to Part C24
+Added Parameter Supplier Footprint=0805 to Part C20
+Added Parameter Supplier Footprint=0805 to Part C24
+Added Parameter Supplier Part=C111492 to Part C20
+Added Parameter Supplier Part=C111492 to Part C24
+Added Parameter SupplierPart= to Part C20
+Added Parameter SupplierPart= to Part C24
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C20
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C24
+Added Parameter Temperature Coefficient=X7R to Part C20
+Added Parameter Temperature Coefficient=X7R to Part C24
+Added Parameter Tolerance=5% to Part C20
+Added Parameter Tolerance=5% to Part C24
+Added Parameter Voltage Rating=50V to Part C20
+Added Parameter Voltage Rating=50V to Part C24
+Update Managed Component C20 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in PGA_CH1.SchDoc
+Update Managed Component C24 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in PGA_CH1.SchDoc

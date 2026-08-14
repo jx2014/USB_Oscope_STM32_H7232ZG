@@ -1,0 +1,76 @@
+Removed Parameter DTEMP: from Part R38
+Removed Parameter DTEMP: from Part R39
+Removed Parameter SimulationGenericComponent:True from Part R38
+Removed Parameter SimulationGenericComponent:True from Part R39
+Removed Parameter T_REL_LOCAL: from Part R38
+Removed Parameter T_REL_LOCAL: from Part R39
+Removed Parameter TC1:0 from Part R38
+Removed Parameter TC1:0 from Part R39
+Removed Parameter TC2:0 from Part R38
+Removed Parameter TC2:0 from Part R39
+Removed Parameter TC: from Part R38
+Removed Parameter TC: from Part R39
+Removed Parameter TEMP: from Part R38
+Removed Parameter TEMP: from Part R39
+Added Parameter AddInBom=yes to Part R38
+Added Parameter AddInBom=yes to Part R39
+Added Parameter Channel ID= to Part R38
+Added Parameter Channel ID= to Part R39
+Added Parameter ConvertToPcb=yes to Part R38
+Added Parameter ConvertToPcb=yes to Part R39
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F0000T5E/18165.html to Part R38
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F0000T5E/18165.html to Part R39
+Added Parameter Design Item ID=0805W8F0000T5E_C17477 to Part R38
+Added Parameter Design Item ID=0805W8F0000T5E_C17477 to Part R39
+Added Parameter Device=0805W8F0000T5E_C17477 to Part R38
+Added Parameter Device=0805W8F0000T5E_C17477 to Part R39
+Added Parameter FootprintName=R0805 to Part R38
+Added Parameter FootprintName=R0805 to Part R39
+Added Parameter Group ID= to Part R38
+Added Parameter Group ID= to Part R39
+Added Parameter JLCPCB Part Class=Basic Part to Part R38
+Added Parameter JLCPCB Part Class=Basic Part to Part R39
+Added Parameter LCSC Part Name=0Ω ±1% 125mW 厚膜电阻 to Part R38
+Added Parameter LCSC Part Name=0Ω ±1% 125mW 厚膜电阻 to Part R39
+Added Parameter Manufacturer Part= to Part R38
+Added Parameter Manufacturer Part= to Part R39
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R38
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R39
+Added Parameter ManufacturerPart=0805W8F0000T5E to Part R38
+Added Parameter ManufacturerPart=0805W8F0000T5E to Part R39
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R38
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R39
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R38
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R39
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R38
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R39
+Added Parameter Operating Temperature Range= to Part R38
+Added Parameter Operating Temperature Range= to Part R39
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R38
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R39
+Added Parameter Overload Voltage (Max)= to Part R38
+Added Parameter Overload Voltage (Max)= to Part R39
+Added Parameter Power(Watts)=125mW to Part R38
+Added Parameter Power(Watts)=125mW to Part R39
+Added Parameter Reuse Block= to Part R38
+Added Parameter Reuse Block= to Part R39
+Added Parameter Source=P1.SCHLIB to Part R38
+Added Parameter Source=P1.SCHLIB to Part R39
+Added Parameter Supplier Footprint=0805 to Part R38
+Added Parameter Supplier Footprint=0805 to Part R39
+Added Parameter Supplier Part= to Part R38
+Added Parameter Supplier Part= to Part R39
+Added Parameter SupplierPart=C17477 to Part R38
+Added Parameter SupplierPart=C17477 to Part R39
+Added Parameter Symbol=0805W8F0000T5E to Part R38
+Added Parameter Symbol=0805W8F0000T5E to Part R39
+Added Parameter Temperature Coefficient=±800ppm/℃ to Part R38
+Added Parameter Temperature Coefficient=±800ppm/℃ to Part R39
+Added Parameter Tolerance=1% to Part R38
+Added Parameter Tolerance=1% to Part R39
+Added Parameter Type=Thick Film Resistor to Part R38
+Added Parameter Type=Thick Film Resistor to Part R39
+Added Parameter Voltage-Supply(Max)=150V to Part R38
+Added Parameter Voltage-Supply(Max)=150V to Part R39
+Update Managed Component R38 From CMP-016-000018-1[Resistor] To CMP-016-000018-1[0805W8F0000T5E_C17477] in REF_VOLTAGE_RELAY_DRIVER.SchDoc
+Update Managed Component R39 From CMP-016-000018-1[Resistor] To CMP-016-000018-1[0805W8F0000T5E_C17477] in REF_VOLTAGE_RELAY_DRIVER.SchDoc

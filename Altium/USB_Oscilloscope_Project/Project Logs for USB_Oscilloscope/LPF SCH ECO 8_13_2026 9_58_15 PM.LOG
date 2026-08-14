@@ -1,0 +1,76 @@
+Removed Parameter DTEMP: from Part R14
+Removed Parameter DTEMP: from Part R23
+Removed Parameter SimulationGenericComponent:True from Part R14
+Removed Parameter SimulationGenericComponent:True from Part R23
+Removed Parameter T_REL_LOCAL: from Part R14
+Removed Parameter T_REL_LOCAL: from Part R23
+Removed Parameter TC1:0 from Part R14
+Removed Parameter TC1:0 from Part R23
+Removed Parameter TC2:0 from Part R14
+Removed Parameter TC2:0 from Part R23
+Removed Parameter TC: from Part R14
+Removed Parameter TC: from Part R23
+Removed Parameter TEMP: from Part R14
+Removed Parameter TEMP: from Part R23
+Added Parameter AddInBom=yes to Part R14
+Added Parameter AddInBom=yes to Part R23
+Added Parameter Channel ID= to Part R14
+Added Parameter Channel ID= to Part R23
+Added Parameter ConvertToPcb=yes to Part R14
+Added Parameter ConvertToPcb=yes to Part R23
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/RT0805BRD0710K1L/925214.html to Part R14
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/RT0805BRD0710K1L/925214.html to Part R23
+Added Parameter Design Item ID=RT0805BRD0710K1L to Part R14
+Added Parameter Design Item ID=RT0805BRD0710K1L to Part R23
+Added Parameter Device=RT0805BRD0710K1L to Part R14
+Added Parameter Device=RT0805BRD0710K1L to Part R23
+Added Parameter FootprintName=R0805 to Part R14
+Added Parameter FootprintName=R0805 to Part R23
+Added Parameter Group ID= to Part R14
+Added Parameter Group ID= to Part R23
+Added Parameter JLCPCB Part Class=Extended Part to Part R14
+Added Parameter JLCPCB Part Class=Extended Part to Part R23
+Added Parameter LCSC Part Name=薄膜电阻 10.1kΩ ±0.1% 125mW to Part R14
+Added Parameter LCSC Part Name=薄膜电阻 10.1kΩ ±0.1% 125mW to Part R23
+Added Parameter Manufacturer Part= to Part R14
+Added Parameter Manufacturer Part= to Part R23
+Added Parameter Manufacturer=YAGEO(国巨) to Part R14
+Added Parameter Manufacturer=YAGEO(国巨) to Part R23
+Added Parameter ManufacturerPart=RT0805BRD0710K1L to Part R14
+Added Parameter ManufacturerPart=RT0805BRD0710K1L to Part R23
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R14
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R23
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R14
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R23
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R14
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R23
+Added Parameter Operating Temperature Range= to Part R14
+Added Parameter Operating Temperature Range= to Part R23
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R14
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R23
+Added Parameter Overload Voltage (Max)= to Part R14
+Added Parameter Overload Voltage (Max)= to Part R23
+Added Parameter Power(Watts)=125mW to Part R14
+Added Parameter Power(Watts)=125mW to Part R23
+Added Parameter Reuse Block= to Part R14
+Added Parameter Reuse Block= to Part R23
+Added Parameter Source=P1.SCHLIB to Part R14
+Added Parameter Source=P1.SCHLIB to Part R23
+Added Parameter Supplier Footprint=0805 to Part R14
+Added Parameter Supplier Footprint=0805 to Part R23
+Added Parameter Supplier Part= to Part R14
+Added Parameter Supplier Part= to Part R23
+Added Parameter SupplierPart=C865133 to Part R14
+Added Parameter SupplierPart=C865133 to Part R23
+Added Parameter Symbol=RT0805BRD0710K1L to Part R14
+Added Parameter Symbol=RT0805BRD0710K1L to Part R23
+Added Parameter Temperature Coefficient=±25ppm/℃ to Part R14
+Added Parameter Temperature Coefficient=±25ppm/℃ to Part R23
+Added Parameter Tolerance=0.1% to Part R14
+Added Parameter Tolerance=0.1% to Part R23
+Added Parameter Type=Thin Film Resistor to Part R14
+Added Parameter Type=Thin Film Resistor to Part R23
+Added Parameter Voltage-Supply(Max)= to Part R14
+Added Parameter Voltage-Supply(Max)= to Part R23
+Update Managed Component R14 From CMP-016-000017-1[Resistor] To CMP-016-000017-1[RT0805BRD0710K1L] in LPF.SchDoc
+Update Managed Component R23 From CMP-016-000017-1[Resistor] To CMP-016-000017-1[RT0805BRD0710K1L] in LPF.SchDoc

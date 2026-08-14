@@ -1,0 +1,102 @@
+Removed Parameter CPAR: from Part C27
+Removed Parameter CPAR: from Part C28
+Removed Parameter CPAR: from Part C29
+Removed Parameter LSER: from Part C27
+Removed Parameter LSER: from Part C28
+Removed Parameter LSER: from Part C29
+Removed Parameter RLSHUNT: from Part C27
+Removed Parameter RLSHUNT: from Part C28
+Removed Parameter RLSHUNT: from Part C29
+Removed Parameter RPAR: from Part C27
+Removed Parameter RPAR: from Part C28
+Removed Parameter RPAR: from Part C29
+Removed Parameter RSER: from Part C27
+Removed Parameter RSER: from Part C28
+Removed Parameter RSER: from Part C29
+Removed Parameter SimulationGenericComponent:True from Part C27
+Removed Parameter SimulationGenericComponent:True from Part C28
+Removed Parameter SimulationGenericComponent:True from Part C29
+Removed Parameter TEMP: from Part C27
+Removed Parameter TEMP: from Part C28
+Removed Parameter TEMP: from Part C29
+Change Value of Parameter Value in Part C27 Old=0.1uF New=100nF
+Change Value of Parameter Value in Part C28 Old=0.1uF New=100nF
+Change Value of Parameter Value in Part C29 Old=0.1uF New=100nF
+Added Parameter AddInBom=yes to Part C27
+Added Parameter AddInBom=yes to Part C28
+Added Parameter AddInBom=yes to Part C29
+Added Parameter Channel ID= to Part C27
+Added Parameter Channel ID= to Part C28
+Added Parameter Channel ID= to Part C29
+Added Parameter ConvertToPcb=yes to Part C27
+Added Parameter ConvertToPcb=yes to Part C28
+Added Parameter ConvertToPcb=yes to Part C29
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C27
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C28
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/CC0805JRX7R9BB104/112720.html to Part C29
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C27
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C28
+Added Parameter Design Item ID=CC0805JRX7R9BB104 to Part C29
+Added Parameter Device=CC0805JRX7R9BB104 to Part C27
+Added Parameter Device=CC0805JRX7R9BB104 to Part C28
+Added Parameter Device=CC0805JRX7R9BB104 to Part C29
+Added Parameter FootprintName=C0805 to Part C27
+Added Parameter FootprintName=C0805 to Part C28
+Added Parameter FootprintName=C0805 to Part C29
+Added Parameter Group ID= to Part C27
+Added Parameter Group ID= to Part C28
+Added Parameter Group ID= to Part C29
+Added Parameter JLCPCB Part Class=Extended Part to Part C27
+Added Parameter JLCPCB Part Class=Extended Part to Part C28
+Added Parameter JLCPCB Part Class=Extended Part to Part C29
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C27
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C28
+Added Parameter LCSC Part Name=100nF ±5% 50V to Part C29
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C27
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C28
+Added Parameter Manufacturer Part=CC0805JRX7R9BB104 to Part C29
+Added Parameter Manufacturer=YAGEO(国巨) to Part C27
+Added Parameter Manufacturer=YAGEO(国巨) to Part C28
+Added Parameter Manufacturer=YAGEO(国巨) to Part C29
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C27
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C28
+Added Parameter ManufacturerPart=CC0805JRX7R9BB104 to Part C29
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C27
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C28
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C29
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C27
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C28
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C29
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C27
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C28
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C29
+Added Parameter Reuse Block= to Part C27
+Added Parameter Reuse Block= to Part C28
+Added Parameter Reuse Block= to Part C29
+Added Parameter Source=P1.SCHLIB to Part C27
+Added Parameter Source=P1.SCHLIB to Part C28
+Added Parameter Source=P1.SCHLIB to Part C29
+Added Parameter Supplier Footprint=0805 to Part C27
+Added Parameter Supplier Footprint=0805 to Part C28
+Added Parameter Supplier Footprint=0805 to Part C29
+Added Parameter Supplier Part=C111492 to Part C27
+Added Parameter Supplier Part=C111492 to Part C28
+Added Parameter Supplier Part=C111492 to Part C29
+Added Parameter SupplierPart= to Part C27
+Added Parameter SupplierPart= to Part C28
+Added Parameter SupplierPart= to Part C29
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C27
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C28
+Added Parameter Symbol=CC0805JRX7R9BB104 to Part C29
+Added Parameter Temperature Coefficient=X7R to Part C27
+Added Parameter Temperature Coefficient=X7R to Part C28
+Added Parameter Temperature Coefficient=X7R to Part C29
+Added Parameter Tolerance=5% to Part C27
+Added Parameter Tolerance=5% to Part C28
+Added Parameter Tolerance=5% to Part C29
+Added Parameter Voltage Rating=50V to Part C27
+Added Parameter Voltage Rating=50V to Part C28
+Added Parameter Voltage Rating=50V to Part C29
+Update Managed Component C27 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in Trigger.SchDoc
+Update Managed Component C28 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in Trigger.SchDoc
+Update Managed Component C29 From CMP-015-000003-2[Capacitor] To CMP-015-000003-2[CC0805JRX7R9BB104] in Trigger.SchDoc

@@ -1,0 +1,68 @@
+Removed Parameter CPAR: from Part C8
+Removed Parameter CPAR: from Part C18
+Removed Parameter LSER: from Part C8
+Removed Parameter LSER: from Part C18
+Removed Parameter RLSHUNT: from Part C8
+Removed Parameter RLSHUNT: from Part C18
+Removed Parameter RPAR: from Part C8
+Removed Parameter RPAR: from Part C18
+Removed Parameter RSER: from Part C8
+Removed Parameter RSER: from Part C18
+Removed Parameter SimulationGenericComponent:True from Part C8
+Removed Parameter SimulationGenericComponent:True from Part C18
+Removed Parameter TEMP: from Part C8
+Removed Parameter TEMP: from Part C18
+Change Value of Parameter Value in Part C8 Old=16p New=16pF
+Change Value of Parameter Value in Part C18 Old=16p New=16pF
+Added Parameter AddInBom=yes to Part C8
+Added Parameter AddInBom=yes to Part C18
+Added Parameter Channel ID= to Part C8
+Added Parameter Channel ID= to Part C18
+Added Parameter ConvertToPcb=yes to Part C8
+Added Parameter ConvertToPcb=yes to Part C18
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805CG160J500NT/2148.html to Part C8
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805CG160J500NT/2148.html to Part C18
+Added Parameter Design Item ID=0805CG160J500NT to Part C8
+Added Parameter Design Item ID=0805CG160J500NT to Part C18
+Added Parameter Device=0805CG160J500NT to Part C8
+Added Parameter Device=0805CG160J500NT to Part C18
+Added Parameter FootprintName=C0805 to Part C8
+Added Parameter FootprintName=C0805 to Part C18
+Added Parameter Group ID= to Part C8
+Added Parameter Group ID= to Part C18
+Added Parameter JLCPCB Part Class=Extended Part to Part C8
+Added Parameter JLCPCB Part Class=Extended Part to Part C18
+Added Parameter LCSC Part Name=16pF ±5% 50V to Part C8
+Added Parameter LCSC Part Name=16pF ±5% 50V to Part C18
+Added Parameter Manufacturer Part= to Part C8
+Added Parameter Manufacturer Part= to Part C18
+Added Parameter Manufacturer=FH(风华) to Part C8
+Added Parameter Manufacturer=FH(风华) to Part C18
+Added Parameter ManufacturerPart=0805CG160J500NT to Part C8
+Added Parameter ManufacturerPart=0805CG160J500NT to Part C18
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C8
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C18
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C8
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C18
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C8
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C18
+Added Parameter Reuse Block= to Part C8
+Added Parameter Reuse Block= to Part C18
+Added Parameter Source=P1.SCHLIB to Part C8
+Added Parameter Source=P1.SCHLIB to Part C18
+Added Parameter Supplier Footprint=0805 to Part C8
+Added Parameter Supplier Footprint=0805 to Part C18
+Added Parameter Supplier Part= to Part C8
+Added Parameter Supplier Part= to Part C18
+Added Parameter SupplierPart=C1796 to Part C8
+Added Parameter SupplierPart=C1796 to Part C18
+Added Parameter Symbol=0805CG160J500NT to Part C8
+Added Parameter Symbol=0805CG160J500NT to Part C18
+Added Parameter Temperature Coefficient=C0G to Part C8
+Added Parameter Temperature Coefficient=C0G to Part C18
+Added Parameter Tolerance=5% to Part C8
+Added Parameter Tolerance=5% to Part C18
+Added Parameter Voltage Rating=50V to Part C8
+Added Parameter Voltage Rating=50V to Part C18
+Update Managed Component C8 From CMP-015-000001-1[Capacitor] To CMP-015-000001-1[0805CG160J500NT] in LPF.SchDoc
+Update Managed Component C18 From CMP-015-000001-1[Capacitor] To CMP-015-000001-1[0805CG160J500NT] in LPF.SchDoc

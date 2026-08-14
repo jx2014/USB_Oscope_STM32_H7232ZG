@@ -1,0 +1,68 @@
+Removed Parameter CPAR: from Part C19
+Removed Parameter CPAR: from Part C23
+Removed Parameter LSER: from Part C19
+Removed Parameter LSER: from Part C23
+Removed Parameter RLSHUNT: from Part C19
+Removed Parameter RLSHUNT: from Part C23
+Removed Parameter RPAR: from Part C19
+Removed Parameter RPAR: from Part C23
+Removed Parameter RSER: from Part C19
+Removed Parameter RSER: from Part C23
+Removed Parameter SimulationGenericComponent:True from Part C19
+Removed Parameter SimulationGenericComponent:True from Part C23
+Removed Parameter TEMP: from Part C19
+Removed Parameter TEMP: from Part C23
+Change Value of Parameter Value in Part C19 Old=22u New=22µF
+Change Value of Parameter Value in Part C23 Old=22u New=22µF
+Added Parameter AddInBom=yes to Part C19
+Added Parameter AddInBom=yes to Part C23
+Added Parameter Channel ID= to Part C19
+Added Parameter Channel ID= to Part C23
+Added Parameter ConvertToPcb=yes to Part C19
+Added Parameter ConvertToPcb=yes to Part C23
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/TCC0805X5R226K100FT/352741.html to Part C19
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/TCC0805X5R226K100FT/352741.html to Part C23
+Added Parameter Design Item ID=TCC0805X5R226K100FT to Part C19
+Added Parameter Design Item ID=TCC0805X5R226K100FT to Part C23
+Added Parameter Device=TCC0805X5R226K100FT to Part C19
+Added Parameter Device=TCC0805X5R226K100FT to Part C23
+Added Parameter FootprintName=C0805 to Part C19
+Added Parameter FootprintName=C0805 to Part C23
+Added Parameter Group ID= to Part C19
+Added Parameter Group ID= to Part C23
+Added Parameter JLCPCB Part Class=Extended Part to Part C19
+Added Parameter JLCPCB Part Class=Extended Part to Part C23
+Added Parameter LCSC Part Name=22uF ±10% 10V to Part C19
+Added Parameter LCSC Part Name=22uF ±10% 10V to Part C23
+Added Parameter Manufacturer Part= to Part C19
+Added Parameter Manufacturer Part= to Part C23
+Added Parameter Manufacturer=CCTC(三环) to Part C19
+Added Parameter Manufacturer=CCTC(三环) to Part C23
+Added Parameter ManufacturerPart=TCC0805X5R226K100FT to Part C19
+Added Parameter ManufacturerPart=TCC0805X5R226K100FT to Part C23
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C19
+Added Parameter ModelId=8c88e81f49c6409b980720ec8953afb6聨0819f05c4eef4c71ace90d822a990e87 to Part C23
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C19
+Added Parameter ModelName=C0805_L2.0-W1.3-H1.3 to Part C23
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C19
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,0.0005,0 to Part C23
+Added Parameter Reuse Block= to Part C19
+Added Parameter Reuse Block= to Part C23
+Added Parameter Source=P1.SCHLIB to Part C19
+Added Parameter Source=P1.SCHLIB to Part C23
+Added Parameter Supplier Footprint=0805 to Part C19
+Added Parameter Supplier Footprint=0805 to Part C23
+Added Parameter Supplier Part= to Part C19
+Added Parameter Supplier Part= to Part C23
+Added Parameter SupplierPart=C380336 to Part C19
+Added Parameter SupplierPart=C380336 to Part C23
+Added Parameter Symbol=TCC0805X5R226K100FT to Part C19
+Added Parameter Symbol=TCC0805X5R226K100FT to Part C23
+Added Parameter Temperature Coefficient=X5R to Part C19
+Added Parameter Temperature Coefficient=X5R to Part C23
+Added Parameter Tolerance=10% to Part C19
+Added Parameter Tolerance=10% to Part C23
+Added Parameter Voltage Rating=10V to Part C19
+Added Parameter Voltage Rating=10V to Part C23
+Update Managed Component C19 From CMP-015-000005-1[Capacitor] To CMP-015-000005-1[TCC0805X5R226K100FT] in PGA_CH1.SchDoc
+Update Managed Component C23 From CMP-015-000005-1[Capacitor] To CMP-015-000005-1[TCC0805X5R226K100FT] in PGA_CH1.SchDoc

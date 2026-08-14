@@ -1,0 +1,67 @@
+Removed Parameter Manufacturer Part:0805W8F1872T5E from Part R15
+Removed Parameter Manufacturer Part:0805W8F1872T5E from Part R24
+Removed Parameter Manufacturer Part: from Part C5
+Removed Parameter Manufacturer Part: from Part C8
+Removed Parameter Manufacturer Part: from Part C14
+Removed Parameter Manufacturer Part: from Part C18
+Removed Parameter Manufacturer Part: from Part R12
+Removed Parameter Manufacturer Part: from Part R13
+Removed Parameter Manufacturer Part: from Part R14
+Removed Parameter Manufacturer Part: from Part R16
+Removed Parameter Manufacturer Part: from Part R17
+Removed Parameter Manufacturer Part: from Part R18
+Removed Parameter Manufacturer Part: from Part R19
+Removed Parameter Manufacturer Part: from Part R21
+Removed Parameter Manufacturer Part: from Part R22
+Removed Parameter Manufacturer Part: from Part R23
+Removed Parameter Manufacturer Part: from Part R25
+Removed Parameter Manufacturer Part: from Part R26
+Removed Parameter Manufacturer Part: from Part R27
+Removed Parameter Manufacturer Part: from Part R28
+Removed Parameter Manufacturer Part: from Part R36
+Removed Parameter Manufacturer Part: from Part R48
+Removed Parameter ManufacturerPart:0805CG160J500NT from Part C8
+Removed Parameter ManufacturerPart:0805CG160J500NT from Part C18
+Removed Parameter ManufacturerPart:0805CG220F500NT from Part C5
+Removed Parameter ManufacturerPart:0805CG220F500NT from Part C14
+Removed Parameter ManufacturerPart:0805W8F1002T5E from Part R19
+Removed Parameter ManufacturerPart:0805W8F1002T5E from Part R28
+Removed Parameter ManufacturerPart: from Part R15
+Removed Parameter ManufacturerPart: from Part R24
+Removed Parameter ManufacturerPart:FRC0805F3011TS from Part R26
+Removed Parameter ManufacturerPart:FRC0805F3011TS from Part R27
+Removed Parameter ManufacturerPart:FRC0805F3402TS from Part R17
+Removed Parameter ManufacturerPart:FRC0805F3402TS from Part R18
+Removed Parameter ManufacturerPart:FRC0805F3402TS from Part R36
+Removed Parameter ManufacturerPart:FRC0805F3402TS from Part R48
+Removed Parameter ManufacturerPart:FRC0805F3571TS from Part R12
+Removed Parameter ManufacturerPart:FRC0805F3571TS from Part R21
+Removed Parameter ManufacturerPart:FRC0805F6981TS from Part R13
+Removed Parameter ManufacturerPart:FRC0805F6981TS from Part R22
+Removed Parameter ManufacturerPart:RC0805FR-077K68L from Part R16
+Removed Parameter ManufacturerPart:RC0805FR-077K68L from Part R25
+Removed Parameter ManufacturerPart:RT0805BRD0710K1L from Part R14
+Removed Parameter ManufacturerPart:RT0805BRD0710K1L from Part R23
+Added Parameter Manufacturer Part Number=0805CG160J500NT to Part C8
+Added Parameter Manufacturer Part Number=0805CG160J500NT to Part C18
+Added Parameter Manufacturer Part Number=0805CG220F500NT to Part C5
+Added Parameter Manufacturer Part Number=0805CG220F500NT to Part C14
+Added Parameter Manufacturer Part Number=0805W8F1002T5E to Part R19
+Added Parameter Manufacturer Part Number=0805W8F1002T5E to Part R28
+Added Parameter Manufacturer Part Number=0805W8F1872T5E to Part R15
+Added Parameter Manufacturer Part Number=0805W8F1872T5E to Part R24
+Added Parameter Manufacturer Part Number=FRC0805F3011TS to Part R26
+Added Parameter Manufacturer Part Number=FRC0805F3011TS to Part R27
+Added Parameter Manufacturer Part Number=FRC0805F3402TS to Part R17
+Added Parameter Manufacturer Part Number=FRC0805F3402TS to Part R18
+Added Parameter Manufacturer Part Number=FRC0805F3402TS to Part R36
+Added Parameter Manufacturer Part Number=FRC0805F3402TS to Part R48
+Added Parameter Manufacturer Part Number=FRC0805F3571TS to Part R12
+Added Parameter Manufacturer Part Number=FRC0805F3571TS to Part R21
+Added Parameter Manufacturer Part Number=FRC0805F6981TS to Part R13
+Added Parameter Manufacturer Part Number=FRC0805F6981TS to Part R22
+Added Parameter Manufacturer Part Number=RC0805FR-077K68L to Part R16
+Added Parameter Manufacturer Part Number=RC0805FR-077K68L to Part R25
+Added Parameter Manufacturer Part Number=RT0805BRD0710K1L to Part R14
+Added Parameter Manufacturer Part Number=RT0805BRD0710K1L to Part R23
+Added Parameter SupplierPart=C5375851 to Part C15

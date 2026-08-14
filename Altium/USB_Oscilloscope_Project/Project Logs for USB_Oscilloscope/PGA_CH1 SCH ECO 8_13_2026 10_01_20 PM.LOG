@@ -1,0 +1,38 @@
+Removed Parameter DTEMP: from Part R36
+Removed Parameter SimulationGenericComponent:True from Part R36
+Removed Parameter T_REL_LOCAL: from Part R36
+Removed Parameter TC1:0 from Part R36
+Removed Parameter TC2:0 from Part R36
+Removed Parameter TC: from Part R36
+Removed Parameter TEMP: from Part R36
+Added Parameter AddInBom=yes to Part R36
+Added Parameter Channel ID= to Part R36
+Added Parameter ConvertToPcb=yes to Part R36
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/FRC0805F10R0TS/3180733.html to Part R36
+Added Parameter Design Item ID=FRC0805F10R0TS to Part R36
+Added Parameter Device=FRC0805F10R0TS to Part R36
+Added Parameter FootprintName=R0805 to Part R36
+Added Parameter Group ID= to Part R36
+Added Parameter JLCPCB Part Class=Extended Part to Part R36
+Added Parameter LCSC Part Name=10Ω ±1% 125mW 厚膜电阻 to Part R36
+Added Parameter Manufacturer Part= to Part R36
+Added Parameter Manufacturer=FOJAN(富捷) to Part R36
+Added Parameter ManufacturerPart=FRC0805F10R0TS to Part R36
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R36
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R36
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R36
+Added Parameter Operating Temperature Range= to Part R36
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R36
+Added Parameter Overload Voltage (Max)= to Part R36
+Added Parameter Power(Watts)=125mW to Part R36
+Added Parameter Reuse Block= to Part R36
+Added Parameter Source=P1.SCHLIB to Part R36
+Added Parameter Supplier Footprint=0805 to Part R36
+Added Parameter Supplier Part= to Part R36
+Added Parameter SupplierPart=C2907220 to Part R36
+Added Parameter Symbol=FRC0805F10R0TS to Part R36
+Added Parameter Temperature Coefficient=±200ppm/℃ to Part R36
+Added Parameter Tolerance=1% to Part R36
+Added Parameter Type=Thick Film Resistor to Part R36
+Added Parameter Voltage-Supply(Max)=150V to Part R36
+Update Managed Component R36 From CMP-016-000008-1[Resistor] To CMP-016-000008-1[FRC0805F10R0TS] in PGA_CH1.SchDoc

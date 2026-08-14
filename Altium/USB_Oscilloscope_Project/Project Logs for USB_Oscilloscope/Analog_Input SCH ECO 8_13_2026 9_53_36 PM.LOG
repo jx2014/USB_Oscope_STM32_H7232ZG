@@ -1,0 +1,76 @@
+Removed Parameter DTEMP: from Part R2
+Removed Parameter DTEMP: from Part R9
+Removed Parameter SimulationGenericComponent:True from Part R2
+Removed Parameter SimulationGenericComponent:True from Part R9
+Removed Parameter T_REL_LOCAL: from Part R2
+Removed Parameter T_REL_LOCAL: from Part R9
+Removed Parameter TC1:0 from Part R2
+Removed Parameter TC1:0 from Part R9
+Removed Parameter TC2:0 from Part R2
+Removed Parameter TC2:0 from Part R9
+Removed Parameter TC: from Part R2
+Removed Parameter TC: from Part R9
+Removed Parameter TEMP: from Part R2
+Removed Parameter TEMP: from Part R9
+Added Parameter AddInBom=yes to Part R2
+Added Parameter AddInBom=yes to Part R9
+Added Parameter Channel ID= to Part R2
+Added Parameter Channel ID= to Part R9
+Added Parameter ConvertToPcb=yes to Part R2
+Added Parameter ConvertToPcb=yes to Part R9
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/FRC0805F1000TS/3180731.html to Part R2
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/FRC0805F1000TS/3180731.html to Part R9
+Added Parameter Design Item ID=FRC0805F1000TS to Part R2
+Added Parameter Design Item ID=FRC0805F1000TS to Part R9
+Added Parameter Device=FRC0805F1000TS to Part R2
+Added Parameter Device=FRC0805F1000TS to Part R9
+Added Parameter FootprintName=R0805 to Part R2
+Added Parameter FootprintName=R0805 to Part R9
+Added Parameter Group ID= to Part R2
+Added Parameter Group ID= to Part R9
+Added Parameter JLCPCB Part Class=Extended Part to Part R2
+Added Parameter JLCPCB Part Class=Extended Part to Part R9
+Added Parameter LCSC Part Name=100Ω ±1% 125mW 厚膜电阻 to Part R2
+Added Parameter LCSC Part Name=100Ω ±1% 125mW 厚膜电阻 to Part R9
+Added Parameter Manufacturer Part= to Part R2
+Added Parameter Manufacturer Part= to Part R9
+Added Parameter Manufacturer=FOJAN(富捷) to Part R2
+Added Parameter Manufacturer=FOJAN(富捷) to Part R9
+Added Parameter ManufacturerPart=FRC0805F1000TS to Part R2
+Added Parameter ManufacturerPart=FRC0805F1000TS to Part R9
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R2
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R9
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R2
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R9
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R2
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R9
+Added Parameter Operating Temperature Range= to Part R2
+Added Parameter Operating Temperature Range= to Part R9
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R2
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R9
+Added Parameter Overload Voltage (Max)= to Part R2
+Added Parameter Overload Voltage (Max)= to Part R9
+Added Parameter Power(Watts)=125mW to Part R2
+Added Parameter Power(Watts)=125mW to Part R9
+Added Parameter Reuse Block= to Part R2
+Added Parameter Reuse Block= to Part R9
+Added Parameter Source=P1.SCHLIB to Part R2
+Added Parameter Source=P1.SCHLIB to Part R9
+Added Parameter Supplier Footprint=0805 to Part R2
+Added Parameter Supplier Footprint=0805 to Part R9
+Added Parameter Supplier Part= to Part R2
+Added Parameter Supplier Part= to Part R9
+Added Parameter SupplierPart=C2907218 to Part R2
+Added Parameter SupplierPart=C2907218 to Part R9
+Added Parameter Symbol=FRC0805F1000TS to Part R2
+Added Parameter Symbol=FRC0805F1000TS to Part R9
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R2
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R9
+Added Parameter Tolerance=1% to Part R2
+Added Parameter Tolerance=1% to Part R9
+Added Parameter Type=Thick Film Resistor to Part R2
+Added Parameter Type=Thick Film Resistor to Part R9
+Added Parameter Voltage-Supply(Max)=150V to Part R2
+Added Parameter Voltage-Supply(Max)=150V to Part R9
+Update Managed Component R2 From CMP-016-000006-1[Resistor] To CMP-016-000006-1[FRC0805F1000TS] in Analog_Input.SchDoc
+Update Managed Component R9 From CMP-016-000006-1[Resistor] To CMP-016-000006-1[FRC0805F1000TS] in Analog_Input.SchDoc

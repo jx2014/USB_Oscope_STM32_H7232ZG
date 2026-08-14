@@ -1,0 +1,78 @@
+Removed Parameter DTEMP: from Part R42
+Removed Parameter DTEMP: from Part R44
+Removed Parameter SimulationGenericComponent:True from Part R42
+Removed Parameter SimulationGenericComponent:True from Part R44
+Removed Parameter T_REL_LOCAL: from Part R42
+Removed Parameter T_REL_LOCAL: from Part R44
+Removed Parameter TC1:0 from Part R42
+Removed Parameter TC1:0 from Part R44
+Removed Parameter TC2:0 from Part R42
+Removed Parameter TC2:0 from Part R44
+Removed Parameter TC: from Part R42
+Removed Parameter TC: from Part R44
+Removed Parameter TEMP: from Part R42
+Removed Parameter TEMP: from Part R44
+Change Value of Parameter Value in Part R42 Old=1K New=1k
+Change Value of Parameter Value in Part R44 Old=1K New=1k
+Added Parameter AddInBom=yes to Part R42
+Added Parameter AddInBom=yes to Part R44
+Added Parameter Channel ID= to Part R42
+Added Parameter Channel ID= to Part R44
+Added Parameter ConvertToPcb=yes to Part R42
+Added Parameter ConvertToPcb=yes to Part R44
+Added Parameter Datasheet=https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf to Part R42
+Added Parameter Datasheet=https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf to Part R44
+Added Parameter Design Item ID=0805W8F1001T5E to Part R42
+Added Parameter Design Item ID=0805W8F1001T5E to Part R44
+Added Parameter Device=0805W8F1001T5E to Part R42
+Added Parameter Device=0805W8F1001T5E to Part R44
+Added Parameter FootprintName=R0805 to Part R42
+Added Parameter FootprintName=R0805 to Part R44
+Added Parameter Group ID= to Part R42
+Added Parameter Group ID= to Part R44
+Added Parameter JLCPCB Part Class=Basic Part to Part R42
+Added Parameter JLCPCB Part Class=Basic Part to Part R44
+Added Parameter LCSC Part Name=1kΩ ±1% 125mW 厚膜电阻 to Part R42
+Added Parameter LCSC Part Name=1kΩ ±1% 125mW 厚膜电阻 to Part R44
+Added Parameter Manufacturer Part= to Part R42
+Added Parameter Manufacturer Part= to Part R44
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R42
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R44
+Added Parameter ManufacturerPart=0805W8F1001T5E to Part R42
+Added Parameter ManufacturerPart=0805W8F1001T5E to Part R44
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R42
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R44
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R42
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R44
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R42
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R44
+Added Parameter Operating Temperature Range=-55℃~+155℃ to Part R42
+Added Parameter Operating Temperature Range=-55℃~+155℃ to Part R44
+Added Parameter Operating Temperature= to Part R42
+Added Parameter Operating Temperature= to Part R44
+Added Parameter Overload Voltage (Max)= to Part R42
+Added Parameter Overload Voltage (Max)= to Part R44
+Added Parameter Power(Watts)= to Part R42
+Added Parameter Power(Watts)= to Part R44
+Added Parameter Reuse Block= to Part R42
+Added Parameter Reuse Block= to Part R44
+Added Parameter Source=P1.SCHLIB to Part R42
+Added Parameter Source=P1.SCHLIB to Part R44
+Added Parameter Supplier Footprint=0805 to Part R42
+Added Parameter Supplier Footprint=0805 to Part R44
+Added Parameter Supplier Part= to Part R42
+Added Parameter Supplier Part= to Part R44
+Added Parameter SupplierPart=C17513 to Part R42
+Added Parameter SupplierPart=C17513 to Part R44
+Added Parameter Symbol=0805W8F1001T5E to Part R42
+Added Parameter Symbol=0805W8F1001T5E to Part R44
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R42
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R44
+Added Parameter Tolerance=1% to Part R42
+Added Parameter Tolerance=1% to Part R44
+Added Parameter Type=Thick Film Resistors to Part R42
+Added Parameter Type=Thick Film Resistors to Part R44
+Added Parameter Voltage-Supply(Max)= to Part R42
+Added Parameter Voltage-Supply(Max)= to Part R44
+Update Managed Component R42 From CMP-016-000001-1[Resistor] To CMP-016-000001-1[0805W8F1001T5E] in REF_VOLTAGE_RELAY_DRIVER.SchDoc
+Update Managed Component R44 From CMP-016-000001-1[Resistor] To CMP-016-000001-1[0805W8F1001T5E] in REF_VOLTAGE_RELAY_DRIVER.SchDoc

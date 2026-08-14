@@ -1,0 +1,78 @@
+Removed Parameter DTEMP: from Part R19
+Removed Parameter DTEMP: from Part R28
+Removed Parameter SimulationGenericComponent:True from Part R19
+Removed Parameter SimulationGenericComponent:True from Part R28
+Removed Parameter T_REL_LOCAL: from Part R19
+Removed Parameter T_REL_LOCAL: from Part R28
+Removed Parameter TC1:0 from Part R19
+Removed Parameter TC1:0 from Part R28
+Removed Parameter TC2:0 from Part R19
+Removed Parameter TC2:0 from Part R28
+Removed Parameter TC: from Part R19
+Removed Parameter TC: from Part R28
+Removed Parameter TEMP: from Part R19
+Removed Parameter TEMP: from Part R28
+Change Value of Parameter Value in Part R19 Old=10K New=10k
+Change Value of Parameter Value in Part R28 Old=10K New=10k
+Added Parameter AddInBom=yes to Part R19
+Added Parameter AddInBom=yes to Part R28
+Added Parameter Channel ID= to Part R19
+Added Parameter Channel ID= to Part R28
+Added Parameter ConvertToPcb=yes to Part R19
+Added Parameter ConvertToPcb=yes to Part R28
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html to Part R19
+Added Parameter Datasheet=https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html to Part R28
+Added Parameter Design Item ID=0805W8F1002T5E to Part R19
+Added Parameter Design Item ID=0805W8F1002T5E to Part R28
+Added Parameter Device=0805W8F1002T5E to Part R19
+Added Parameter Device=0805W8F1002T5E to Part R28
+Added Parameter FootprintName=R0805 to Part R19
+Added Parameter FootprintName=R0805 to Part R28
+Added Parameter Group ID= to Part R19
+Added Parameter Group ID= to Part R28
+Added Parameter JLCPCB Part Class=Basic Part to Part R19
+Added Parameter JLCPCB Part Class=Basic Part to Part R28
+Added Parameter LCSC Part Name=10kΩ ±1% 125mW 厚膜电阻 to Part R19
+Added Parameter LCSC Part Name=10kΩ ±1% 125mW 厚膜电阻 to Part R28
+Added Parameter Manufacturer Part= to Part R19
+Added Parameter Manufacturer Part= to Part R28
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R19
+Added Parameter Manufacturer=UNI-ROYAL(厚声) to Part R28
+Added Parameter ManufacturerPart=0805W8F1002T5E to Part R19
+Added Parameter ManufacturerPart=0805W8F1002T5E to Part R28
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R19
+Added Parameter ModelId=b83c7c5430874b8eb2319a65d9433429聨0819f05c4eef4c71ace90d822a990e87 to Part R28
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R19
+Added Parameter ModelName=R0805_L2.0-W1.3-H0.6 to Part R28
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R19
+Added Parameter ModelTransform=78.74,51.181,0,0,0,0,0,-0.0005,0 to Part R28
+Added Parameter Operating Temperature Range= to Part R19
+Added Parameter Operating Temperature Range= to Part R28
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R19
+Added Parameter Operating Temperature=-55℃~+155℃ to Part R28
+Added Parameter Overload Voltage (Max)= to Part R19
+Added Parameter Overload Voltage (Max)= to Part R28
+Added Parameter Power(Watts)=125mW to Part R19
+Added Parameter Power(Watts)=125mW to Part R28
+Added Parameter Reuse Block= to Part R19
+Added Parameter Reuse Block= to Part R28
+Added Parameter Source=P1.SCHLIB to Part R19
+Added Parameter Source=P1.SCHLIB to Part R28
+Added Parameter Supplier Footprint=0805 to Part R19
+Added Parameter Supplier Footprint=0805 to Part R28
+Added Parameter Supplier Part= to Part R19
+Added Parameter Supplier Part= to Part R28
+Added Parameter SupplierPart=C17414 to Part R19
+Added Parameter SupplierPart=C17414 to Part R28
+Added Parameter Symbol=0805W8F1002T5E to Part R19
+Added Parameter Symbol=0805W8F1002T5E to Part R28
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R19
+Added Parameter Temperature Coefficient=±100ppm/℃ to Part R28
+Added Parameter Tolerance=1% to Part R19
+Added Parameter Tolerance=1% to Part R28
+Added Parameter Type=Thick Film Resistor to Part R19
+Added Parameter Type=Thick Film Resistor to Part R28
+Added Parameter Voltage-Supply(Max)=150V to Part R19
+Added Parameter Voltage-Supply(Max)=150V to Part R28
+Update Managed Component R19 From CMP-016-000002-1[Resistor] To CMP-016-000002-1[0805W8F1002T5E] in LPF.SchDoc
+Update Managed Component R28 From CMP-016-000002-1[Resistor] To CMP-016-000002-1[0805W8F1002T5E] in LPF.SchDoc
