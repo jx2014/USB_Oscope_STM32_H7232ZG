@@ -1,7 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ConstraintsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <FlattenedNetName2ConstraintNetId />
-  <CNets />
+  <FlattenedNetName2ConstraintNetId>
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="+1V625" ConstraintNetId="a4d8793c-d686-4c28-9372-7b9cf4a0090f" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="+3V3" ConstraintNetId="08787b51-7c05-4b20-a44e-22ef33091bee" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="+5V" ConstraintNetId="f2b32f08-de78-468a-85dc-91ce7d129122" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="GND" ConstraintNetId="5ab3f326-a82a-4e4f-87f3-ad698607a811" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SIGNAL_CH1_CLAMPED" ConstraintNetId="87c036eb-048f-413a-91dc-718ce677ed2b" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SIGNAL_CH2_CLAMPED" ConstraintNetId="1363b733-d8fd-416b-b742-367c5265dfe7" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SIGNAL_LPF_CH1_IN" ConstraintNetId="c000e400-ee8e-49ef-a624-72387884166c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SIGNAL_LPF_CH1_OUT" ConstraintNetId="093fa048-43a3-4676-ad5f-3698d4cd6884" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SIGNAL_LPF_CH2_IN" ConstraintNetId="36e6ba8a-8942-4b65-9376-0192c6561193" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SIGNAL_LPF_CH2_OUT" ConstraintNetId="9681ac01-1cbe-42a6-addf-391553e5fe44" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CS1_" ConstraintNetId="0fd8c57d-ad57-4b44-806d-b27a49a25099" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CS2_" ConstraintNetId="6ff1ac20-f6c3-4186-ae49-6bdf3374f50f" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CS3_" ConstraintNetId="c2835a7c-3f95-496f-b4c5-3a7e6a447966" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DIO" ConstraintNetId="f9395b0a-2ff8-42e0-abbe-4b99e601a629" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SCLK" ConstraintNetId="17ee71e7-fd57-4d72-ad28-b4f691562e3d" />
+  </FlattenedNetName2ConstraintNetId>
+  <CNets>
+    <CNet Id="a4d8793c-d686-4c28-9372-7b9cf4a0090f">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="08787b51-7c05-4b20-a44e-22ef33091bee">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="f2b32f08-de78-468a-85dc-91ce7d129122">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="5ab3f326-a82a-4e4f-87f3-ad698607a811">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="87c036eb-048f-413a-91dc-718ce677ed2b">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="1363b733-d8fd-416b-b742-367c5265dfe7">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="c000e400-ee8e-49ef-a624-72387884166c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="093fa048-43a3-4676-ad5f-3698d4cd6884">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="36e6ba8a-8942-4b65-9376-0192c6561193">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="9681ac01-1cbe-42a6-addf-391553e5fe44">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="0fd8c57d-ad57-4b44-806d-b27a49a25099">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="6ff1ac20-f6c3-4186-ae49-6bdf3374f50f">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="c2835a7c-3f95-496f-b4c5-3a7e6a447966">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="f9395b0a-2ff8-42e0-abbe-4b99e601a629">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="17ee71e7-fd57-4d72-ad28-b4f691562e3d">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+  </CNets>
   <CNetClasses>
     <CNetClass Id="04a77217-d689-484f-930f-fee8ac193c8a" Name="All Nets" IsPredefined="true" Domain="2">
       <Constraints>
@@ -15,6 +122,45 @@
       <ConstraintsEx />
       <ConstraintSets />
       <CNets />
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="e2b00519-bb3d-422c-bb7e-a34c872f0897" Name="Power" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="a4d8793c-d686-4c28-9372-7b9cf4a0090f" />
+        <CNet Id="08787b51-7c05-4b20-a44e-22ef33091bee" />
+        <CNet Id="f2b32f08-de78-468a-85dc-91ce7d129122" />
+        <CNet Id="5ab3f326-a82a-4e4f-87f3-ad698607a811" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="5fdadeb0-2b48-4bf1-93ca-2c8c65b6e98e" Name="MAIN_SIGNAL" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="87c036eb-048f-413a-91dc-718ce677ed2b" />
+        <CNet Id="1363b733-d8fd-416b-b742-367c5265dfe7" />
+        <CNet Id="c000e400-ee8e-49ef-a624-72387884166c" />
+        <CNet Id="093fa048-43a3-4676-ad5f-3698d4cd6884" />
+        <CNet Id="36e6ba8a-8942-4b65-9376-0192c6561193" />
+        <CNet Id="9681ac01-1cbe-42a6-addf-391553e5fe44" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="7c619530-505c-4555-9bdd-d3809f257333" Name="SPI" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="0fd8c57d-ad57-4b44-806d-b27a49a25099" />
+        <CNet Id="6ff1ac20-f6c3-4186-ae49-6bdf3374f50f" />
+        <CNet Id="c2835a7c-3f95-496f-b4c5-3a7e6a447966" />
+        <CNet Id="f9395b0a-2ff8-42e0-abbe-4b99e601a629" />
+        <CNet Id="17ee71e7-fd57-4d72-ad28-b4f691562e3d" />
+      </CNets>
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
   </CNetClasses>
