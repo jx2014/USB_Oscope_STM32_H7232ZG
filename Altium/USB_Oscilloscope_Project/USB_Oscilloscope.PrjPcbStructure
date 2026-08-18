@@ -1,6 +1,7 @@
-Record=TopLevelDocument|FileName=Analog_Input.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Analog_Input.SchDoc|FileName=H723ZG_Interface.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Analog_Input.SchDoc|FileName=LPF.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Analog_Input.SchDoc|FileName=PGA_CH1.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Analog_Input.SchDoc|FileName=REF_VOLTAGE_RELAY_DRIVER.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Analog_Input.SchDoc|FileName=Trigger.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=USB_Scope_Shield|SchDesignator=USB_Scope_Shield|FileName=PGA.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=USB_Scope_Shield|SchDesignator=USB_Scope_Shield|FileName=Trigger.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Trigger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=USB_Scope_Shield|SchDesignator=USB_Scope_Shield|FileName=Analog_Input.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Analog_Input.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=USB_Scope_Shield|SchDesignator=USB_Scope_Shield|FileName=H723ZG_Interface.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=H723ZG_Interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=USB_Scope_Shield|SchDesignator=USB_Scope_Shield|FileName=REF_VOLTAGE_RELAY_DRIVER.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=REF_VOLTAGE_RELAY_DRIVER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=USB_Scope_Shield|SchDesignator=USB_Scope_Shield|FileName=LPF.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=LPF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
