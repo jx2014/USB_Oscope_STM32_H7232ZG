@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=+3V3 Pin=C26-2
+Removed Pin From Net: NetName=+3V3 Pin=U8-1
+Added Component: Designator=R52(R0805)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/0805W8F0000T5E/18165.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "0805W8F0000T5E_C17477"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0805W8F0000T5E_C17477"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "R0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "0¦¸ ¡À1% 125mW ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0805W8F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "b83c7c5430874b8eb2319a65d9433429ÂŽ0819f05c4eef4c71ace90d822a990e87"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "R0805_L2.0-W1.3-H0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "78.74,51.181,0,0,0,0,0,-0.0005,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "P1.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C17477"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0805W8F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À800ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage-Supply(Max)"; Value = "150V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R52-2
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=R52-1
+Added Pin To Net: NetName=NetC26_2 Pin=U8-1
+Added Net: Name=NetC26_2
+Added Member To Class: ClassName=REF_VOLTAGE_RELAY_DRIVER Member=Component R52 0805W8F0000T5E_C17477
