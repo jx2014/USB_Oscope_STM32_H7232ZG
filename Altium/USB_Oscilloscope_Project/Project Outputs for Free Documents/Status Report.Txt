@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [USB_Oscilloscope.PcbDoc]
+   Generated File[Pick Place for USB_Oscilloscope.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:35:43 PM On 9/2/2026

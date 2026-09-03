@@ -1,0 +1,56 @@
+*************************************************************
+FileName = USB_Oscilloscope.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : odb\steps\pcb\profile
+
+Generated File : odb\steps\pcb\stephdr
+
+Generated File : odb\steps\pcb\attrlist
+
+Generated File : odb\steps\pcb\layers\top_surface_finish\features
+
+Generated File : odb\steps\pcb\layers\top_surface_finish\attrlist
+
+Generated File : odb\steps\pcb\layers\bottom_surface_finish\features
+
+Generated File : odb\steps\pcb\layers\bottom_surface_finish\attrlist
+
+Generated File : odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : odb\steps\pcb\layers\drill_plated_sig+pwr2-sig+pwr\features
+
+Generated File : odb\steps\pcb\layers\drill_plated_sig+pwr2-sig+pwr\attrlist
+
+Generated File : odb\steps\pcb\layers\drill_plated_sig+pwr2-sig+pwr\tools
+
+Generated File : odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : odb\steps\pcb\layers\top_paste\features
+
+Generated File : odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : odb\steps\pcb\layers\top_solder\features
+
+Generated File : odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : odb\steps\pcb\layers\top_overlay\features
+
+Generated File : odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : odb\steps\pcb\eda\data
+
+Generated File : odb\matrix\matrix
+

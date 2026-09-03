@@ -221,12 +221,233 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project\PCB_Project.nsx
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_sig+pwr2-sig+pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\bottom_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\drill_plated_sig+pwr2-sig+pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\top_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for PCB_Project\PCB_Project.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for USB_Oscilloscope\Pick Place\Pick Place for USB_Oscilloscope.csv
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for USB_Oscilloscope.txt
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for USB_Oscilloscope\Pick Place\Pick Place for USB_Oscilloscope.txt
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_sig+pwr2-sig+pwr\tools
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\odb\steps\pcb\layers\drill_plated_sig+pwr2-sig+pwr\tools
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Free Documents\IPC2581\USB_Oscilloscope.cvg
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for USB_Oscilloscope\IPC2581\USB_Oscilloscope.cvg
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Free Documents\NC Drill\USB_Oscilloscope.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for USB_Oscilloscope\NC Drill\USB_Oscilloscope.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Free Documents\GerberX2\USB_Oscilloscope.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for USB_Oscilloscope\GerberX2\USB_Oscilloscope.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Free Documents\NC Drill\USB_Oscilloscope.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for USB_Oscilloscope\NC Drill\USB_Oscilloscope.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
 DocumentPath=Project Outputs for USB_Oscilloscope\USB_Oscilloscope.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Free Documents\GerberX2\USB_Oscilloscope.REP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Free Documents\ODB\USB_Oscilloscope.REP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for USB_Oscilloscope\GerberX2\USB_Oscilloscope.REP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for USB_Oscilloscope\ODB\USB_Oscilloscope.REP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Free Documents\NC Drill\USB_Oscilloscope.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for USB_Oscilloscope\NC Drill\USB_Oscilloscope.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -603,13 +824,17 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=BOM set 1
 Configuration1_Name4=GroupOrder
-Configuration1_Item4=Comment=True|Footprint=True
-Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration1_Item4=
+Configuration1_Name5=VisibleOrder
+Configuration1_Item5=Comment=126|Designator=234|Description=236|Manufacturer Part Number=160|Value=55|SourceLibraryName=233|Source=142|Supplier Part Number=133|Supplier Footprint=118|Supplier=66|Manufacturer 1=102|Manufacturer Part Number 1=169|Supplier Part Number 1=142|Supplier Packaging 1=131|Supplier Currency 1=123|Supplier 1=100|Manufacturer=128
+Configuration1_Name6=VisibleOrder_Base
+Configuration1_Item6=Comment=126|Designator=234|Description=236|Manufacturer Part Number=160|Value=55|SourceLibraryName=233|Source=142|Supplier Part Number=133|Supplier Footprint=118|Supplier=66|Manufacturer 1=102|Manufacturer Part Number 1=169|Supplier Part Number 1=142|Supplier Packaging 1=131|Supplier Currency 1=123|Supplier 1=100|Manufacturer=128
+Configuration1_Name7=VisibleOrder_Consolidated
+Configuration1_Item7=Line #=54|Comment=143|Description=100|Designator=100|Revision ID=132|Revision State=133|Revision Status=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name8=VisibleOrder_Flat
+Configuration1_Item8=Comment=126|Description=120|Designator=234|Value=55|Manufacturer=128
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=

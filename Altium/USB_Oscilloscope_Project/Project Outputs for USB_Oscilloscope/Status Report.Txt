@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:21:15 PM On 9/2/2026
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [USB_Oscilloscope.PcbDoc]
+   Generated File[Pick Place for USB_Oscilloscope.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:21:16 PM On 9/2/2026
